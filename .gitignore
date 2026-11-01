@@ -1,0 +1,29 @@
+# Unity-generated data
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# IDE and generated projects
+/.vs/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.pdb
+
+# Build and capture output
+/Builds/
+/MemoryCaptures/
+/Recordings/
+/Assets/Logs/
+/Assets/Logs.meta
+*.log
+[Dd]ownloads/
+*.blend1
+*.blend2

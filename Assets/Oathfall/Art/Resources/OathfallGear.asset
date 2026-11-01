@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ad3452a331ac784fb61357d0e62de04, type: 3}
+  m_Name: OathfallGear
+  m_EditorClassIdentifier: Oathfall.Presentation::Oathfall.Presentation.GearCatalog
+  models:
+  - {fileID: 453366964898259397, guid: 4ceb2c34f3079634cb2c03024a9eb405, type: 3}
+  - {fileID: 1532678911262215074, guid: ab5995ca8337e0f4789e2c1e09bc6e93, type: 3}
+  - {fileID: 7435416706386647100, guid: 301a143e54786164cbd79f01b11164f7, type: 3}
+  - {fileID: 3721622105215124505, guid: 7a4a3b948fb10c54abcb4df752ad3262, type: 3}
+  - {fileID: 2701344960097318532, guid: 88e0ac6de9c5a0b49a43488d5239d1ae, type: 3}
+  - {fileID: 971470198878013565, guid: 7bb41d3de72199f4cb1aded5ce7af332, type: 3}
+  icons:
+  - {fileID: 21300000, guid: 161d1d7e60661cf4e99c8191e2c0a0cd, type: 3}
+  - {fileID: 21300000, guid: c328bfa14296c01499a94f5a46bb5b25, type: 3}
+  - {fileID: 21300000, guid: 840e4ece3b9f71a428e78cd38d18c4b7, type: 3}
+  - {fileID: 21300000, guid: f78d1b1032602e449a7b90338d8ec946, type: 3}
+  - {fileID: 21300000, guid: 89fdc950963988f46aa332cc1bd62a00, type: 3}
+  - {fileID: 21300000, guid: b33b70a85c3d3494ab1fb8d1ba549e09, type: 3}

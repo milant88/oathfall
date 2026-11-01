@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af9ff8ef53f4fa5478307626be345b9b, type: 3}
+  m_Name: HollowwoodPalette
+  m_EditorClassIdentifier: Oathfall.Presentation::Oathfall.Presentation.PresentationPalette
+  shrineFloor: {fileID: 2100000, guid: 7a8d378ad0c8b7a48b2c837842aee661, type: 2}
+  oldStone: {fileID: 2100000, guid: 60145f6a83fb23340a4e3b2a2c905eb0, type: 2}
+  mossStone: {fileID: 2100000, guid: 29eb10fff41560a49aa08314daaabdb2, type: 2}
+  bark: {fileID: 2100000, guid: 312753289817d644283a49c8923c78b3, type: 2}
+  leaf: {fileID: 2100000, guid: 8105da0c2cf213b43bb129de7f5f5a5c, type: 2}
+  warmGold: {fileID: 2100000, guid: c78a5926a513d5e4f8d18367a3b5cfe0, type: 2}
+  ember: {fileID: 2100000, guid: e3b272d6b9b587143bf590c4af4c36e7, type: 2}

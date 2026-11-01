@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59c8332189aec05498673e41011379e9, type: 3}
+  m_Name: Dawnwarden
+  m_EditorClassIdentifier: Oathfall.Presentation::Oathfall.Presentation.ActorPresentationDefinition
+  stableId: hero.dawnwarden.presentation
+  kind: 0
+  animatorController: {fileID: 9100000, guid: 0a4fe210d5904344e90186dfd4f39c49, type: 2}
+  skinMaterial: {fileID: 2100000, guid: efe4bdbdc6c68a740a53dda2a085d519, type: 2}
+  primaryMaterial: {fileID: 2100000, guid: e332626632117584eb6bd94f87a11195, type: 2}
+  secondaryMaterial: {fileID: 2100000, guid: 7aa62bc590a36de478e5084ab9fac617, type: 2}
+  metalMaterial: {fileID: 2100000, guid: e332626632117584eb6bd94f87a11195, type: 2}
+  accentMaterial: {fileID: 2100000, guid: c78a5926a513d5e4f8d18367a3b5cfe0, type: 2}
+  telegraphMaterial: {fileID: 2100000, guid: d8d428f0cd4978b4ebe469a641a31531, type: 2}

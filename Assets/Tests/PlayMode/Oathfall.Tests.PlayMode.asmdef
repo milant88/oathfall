@@ -1,0 +1,14 @@
+{
+  "name": "Oathfall.Tests.PlayMode",
+  "references": [
+    "Oathfall.Core",
+    "Oathfall.Gameplay",
+    "Oathfall.Presentation",
+    "Unity.InputSystem",
+    "Unity.AI.Navigation",
+    "Oathfall.App"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Oathfall.Presentation",
+  "rootNamespace": "Oathfall.Presentation",
+  "references": [
+    "Oathfall.Core"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

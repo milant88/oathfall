@@ -1,0 +1,10 @@
+{
+  "name": "Oathfall.App",
+  "references": [
+    "Oathfall.Core",
+    "Oathfall.Gameplay",
+    "Oathfall.Presentation",
+    "Unity.InputSystem",
+    "Unity.TextMeshPro"
+  ]
+}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4aa8af6bb430a942aa9076060336173, type: 3}
+  m_Name: HollowwoodRaider
+  m_EditorClassIdentifier: Oathfall.Presentation::Oathfall.Presentation.ActorPresentationDefinition
+  stableId: enemy.hollowwood.raider.presentation
+  modelPrefab: {fileID: 7143771744211717320, guid: 78abbe8fbb086014db11dfcddfa42cb2, type: 3}
+  avatar: {fileID: 9000000, guid: 0696efac073ad2a45ba6abf2134731c4, type: 3}
+  weaponMotion: {fileID: 11400000, guid: 716896504ba2b204fb0f2ab6853e3924, type: 2}
+  swingSound: {fileID: 8300000, guid: d8c80a95ddf44f747b272fccdf9bc445, type: 3}
+  impactSound: {fileID: 8300000, guid: 924ea5f14c864b9499c5211d1aa756fb, type: 3}
+  stepSound: {fileID: 8300000, guid: e57ccf9fd9f85e24cb0212011233312b, type: 3}
+  blockSound: {fileID: 8300000, guid: 0fc3cdefadec1d0479182259b7acf883, type: 3}
+  weaponSocket: WeaponSocket
+  shieldSocket: ShieldSocket
+  kind: 1
+  animatorController: {fileID: 9100000, guid: 924f211cbf3effc458e3ea3a17010561, type: 2}
+  skinMaterial: {fileID: 0}
+  primaryMaterial: {fileID: 0}
+  secondaryMaterial: {fileID: 0}
+  metalMaterial: {fileID: 0}
+  accentMaterial: {fileID: 0}
+  telegraphMaterial: {fileID: 2100000, guid: c3a80068118426f4995e1b247d52e09d, type: 2}
+  impactMaterial: {fileID: 2100000, guid: eea428e4a9842564aa6b5607bf01b35c, type: 2}

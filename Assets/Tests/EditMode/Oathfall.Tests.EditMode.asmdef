@@ -1,0 +1,27 @@
+{
+  "name": "Oathfall.Tests.EditMode",
+  "rootNamespace": "Oathfall.Tests.EditMode",
+  "references": [
+    "Oathfall.Core",
+    "Oathfall.Gameplay",
+    "Oathfall.App",
+    "Oathfall.Editor",
+    "Unity.RenderPipelines.Core.Runtime",
+    "Unity.RenderPipelines.Universal.Runtime",
+    "Oathfall.Presentation"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
