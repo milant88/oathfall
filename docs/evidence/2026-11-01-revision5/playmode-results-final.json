@@ -1,0 +1,202 @@
+{
+  "status": "completed",
+  "duration": 77.51,
+  "summary": {
+    "total": 27,
+    "passed": 27,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.CameraCutawayPreservesCollisionAndRestoresVisibility",
+      "Status": "Passed",
+      "Duration": 2.4595175,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.CameraRevealsPlayerBodyBehindAuthoredEntranceArch",
+      "Status": "Passed",
+      "Duration": 1.6646242,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.CleaveAnimationUsesOneSwingAtGameplayDuration",
+      "Status": "Passed",
+      "Duration": 1.8335054,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.DodgeRecoveryRemainsVulnerableAfterProtectionEnds",
+      "Status": "Passed",
+      "Duration": 1.9045257,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.EachEncounterCanBeReachedAndCompletedWithoutDuplicateRewards",
+      "Status": "Passed",
+      "Duration": 35.1027457,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.EncounterSpawnsStayOnConnectedGround",
+      "Status": "Passed",
+      "Duration": 1.4067036,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.EntireRouteIsTraversableByPlayerCollider",
+      "Status": "Passed",
+      "Duration": 1.4982797,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.EquipmentInspectionIsReadOnlyAndStudioSuspendsWhenClosed",
+      "Status": "Passed",
+      "Duration": 1.4469577,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.EquipmentMutationClearsStaleDiscardSelection",
+      "Status": "Passed",
+      "Duration": 1.3751288,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.FocusLossPausesCombatUntilExplicitResume",
+      "Status": "Passed",
+      "Duration": 1.3686668,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.FullInventoryDoesNotDestroyDrop",
+      "Status": "Passed",
+      "Duration": 1.5789653,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.GroundedPickupAddsOnceAndEquipmentChangesDamage",
+      "Status": "Passed",
+      "Duration": 1.5436239,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.GroveRockRouteIsTraversableByPlayerCollider",
+      "Status": "Passed",
+      "Duration": 1.3676371,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.HeroDeathFinishesPresentationThenAllowsCleanExpedition",
+      "Status": "Passed",
+      "Duration": 3.6683938,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.ImmuneAndDeadTargetsDoNotEmitFalseImpactFeedback",
+      "Status": "Passed",
+      "Duration": 1.3656411,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.LootUnderArchStaysOnGroundRatherThanRoof",
+      "Status": "Passed",
+      "Duration": 1.4773523,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.RestartDisablesPreviousRunBeforeNextFrame",
+      "Status": "Passed",
+      "Duration": 1.3612225,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.SampledBladeMatchesVisibleWeaponAndHasNoPhantomReach",
+      "Status": "Passed",
+      "Duration": 1.3790696,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.ShrineRewardIsReachableAndCollectible",
+      "Status": "Passed",
+      "Duration": 1.4593315,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.SlowFrameHitsOnceAndStaggerCancelsRemainingWindow",
+      "Status": "Passed",
+      "Duration": 1.3716101,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.StaggerCancelsTelegraphedSpellAndFlasksAreLimited",
+      "Status": "Passed",
+      "Duration": 1.5837713,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.StationaryDodgeUsesFacingAndPreventsDamageImmediately",
+      "Status": "Passed",
+      "Duration": 1.4923706,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.SwordDoesNotHitBeyondVisibleBladeReach",
+      "Status": "Passed",
+      "Duration": 1.3756483,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.TenRestartsLeaveOneActorSetAndControllerInventoryFocusWorks",
+      "Status": "Passed",
+      "Duration": 1.5440394,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.ThreeCombosUseDistinctTrajectoriesAndMatchVisibleBlade",
+      "Status": "Passed",
+      "Duration": 1.4917623,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.VisualCanopyWithoutColliderRevealsAndRestores",
+      "Status": "Passed",
+      "Duration": 1.6530354,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.WallPreventsPickup",
+      "Status": "Passed",
+      "Duration": 1.6077217,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

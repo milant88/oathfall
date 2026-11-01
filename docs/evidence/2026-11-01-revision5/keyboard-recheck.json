@@ -1,0 +1,20 @@
+{
+  "status": "completed",
+  "duration": 2.77,
+  "summary": {
+    "total": 1,
+    "passed": 1,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.KeyboardCanCloseEquipmentAndPauseAtZeroTimeScale",
+      "Status": "Passed",
+      "Duration": 2.6398681,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

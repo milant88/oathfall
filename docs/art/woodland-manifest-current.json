@@ -1,0 +1,92 @@
+{
+  "contentRevision": 3,
+  "acquired": "2026-11-01",
+  "vendor": [
+    {
+      "file": "Assets/Oathfall/ThirdParty/PolyHaven/RockBoulderCracked_2K/rock_boulder_cracked_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_cracked/rock_boulder_cracked_diff_2k.jpg",
+      "sha256": "d7010ebf5157dc707f4bb555c74f589e1b794a308c186f6de2271f3ad0ff0da4",
+      "license": "CC0",
+      "source": "https://polyhaven.com/a/rock_boulder_cracked",
+      "acquired": "2026-11-01"
+    },
+    {
+      "file": "Assets/Oathfall/ThirdParty/PolyHaven/RockBoulderCracked_2K/rock_boulder_cracked_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_cracked/rock_boulder_cracked_nor_gl_2k.jpg",
+      "sha256": "03a9815ebb58cc9ab5a59ab333f1bc50fa2539571aa6868bfb30d76b21601b30",
+      "license": "CC0",
+      "source": "https://polyhaven.com/a/rock_boulder_cracked",
+      "acquired": "2026-11-01"
+    },
+    {
+      "file": "Assets/Oathfall/ThirdParty/PolyHaven/RockBoulderCracked_2K/rock_boulder_cracked_rough_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_cracked/rock_boulder_cracked_rough_2k.jpg",
+      "sha256": "511e9df71b8285149303278e1eed2bc70fdc6d7171ed7b3cbf4eefc171673b12",
+      "license": "CC0",
+      "source": "https://polyhaven.com/a/rock_boulder_cracked",
+      "acquired": "2026-11-01"
+    }
+  ],
+  "owned": [
+    {
+      "path": "SourceArt/author_woodland.py",
+      "sha256": "d2a1e838787f21223d7ea1ecb66e5e6f4aea6481d3d548edee48650256486416",
+      "source": "SourceArt/author_woodland.py",
+      "license": "Oathfall-owned"
+    },
+    {
+      "path": "SourceArt/WoodlandKit.blend",
+      "sha256": "26acf4adfd654b263129726cfe7790086c6365b10e57899b0c4f194f44b3b17d",
+      "source": "SourceArt/author_woodland.py",
+      "license": "Oathfall-owned"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/WoodlandBoulder0.fbx",
+      "sha256": "d5d25ded03957b103376c2f72dde3969521f012d46651bf729bb12924f5f9747",
+      "source": "SourceArt/author_woodland.py",
+      "license": "Oathfall-owned"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/WoodlandBoulder1.fbx",
+      "sha256": "461b30556bd4aef4d3bd68ddb5aade022ab998c150514621b27e3a85f47f28de",
+      "source": "SourceArt/author_woodland.py",
+      "license": "Oathfall-owned"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/WoodlandBoulder2.fbx",
+      "sha256": "ff7a8fc2ee377bf1428fb1c7cbbd46808c9c8926d6881ddbdec1a1d49a032715",
+      "source": "SourceArt/author_woodland.py",
+      "license": "Oathfall-owned"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/WoodlandFern0.fbx",
+      "sha256": "a6b8b0ae07099079d622bbf6aa89bdffc5a15553aba69322dbe3b63e2e8b425c",
+      "source": "SourceArt/author_woodland.py",
+      "license": "Oathfall-owned"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/WoodlandFern1.fbx",
+      "sha256": "9bdb26a76b4ff2d8af1ddb81f611d5bdf4a8e27ee8bcbad061403fad9d7f931a",
+      "source": "SourceArt/author_woodland.py",
+      "license": "Oathfall-owned"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/WoodlandFern2.fbx",
+      "sha256": "eeb64aa1c1be2082be883b42a1c2e78542f0c60dd8cf3bc4da30738e28c41cc8",
+      "source": "SourceArt/author_woodland.py",
+      "license": "Oathfall-owned"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/WoodlandRoots.fbx",
+      "sha256": "c2d9f4daba865a6874ecf4c272de31df5b64844791492f101bb0312e193f0855",
+      "source": "SourceArt/author_woodland.py",
+      "license": "Oathfall-owned"
+    }
+  ],
+  "modifications": [
+    "Fern face winding corrected after visual review; authoring script is deterministic.",
+    "Rock diffuse and GL normal imported at 2K. Roughness source retained; runtime rock uses scalar smoothness 0.12.",
+    "Opaque Poly Haven floor albedo imports ignore alpha; cobblestone DX normal flips green on import.",
+    "Actor steel retains scanned normal/roughness with authored albedo for gameplay readability."
+  ]
+}

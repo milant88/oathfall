@@ -1,0 +1,20 @@
+{
+  "status": "completed",
+  "duration": 1.87,
+  "summary": {
+    "total": 1,
+    "passed": 1,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.SampledBladeMatchesVisibleWeaponAndHasNoPhantomReach",
+      "Status": "Passed",
+      "Duration": 1.7648338,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

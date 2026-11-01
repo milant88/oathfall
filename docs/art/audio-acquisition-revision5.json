@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-01",
+  "sources": [
+    {
+      "name": "RPG sounds",
+      "author": "Kenney Vleugels",
+      "license": "CC0",
+      "url": "https://opengameart.org/content/50-rpg-sound-effects",
+      "archiveSha256": "3ae398ad63e293f9c450bda22d5d81c3af69c74df66fc1400f33c012c0bbc231"
+    },
+    {
+      "name": "Park ambiences",
+      "author": "Thimras",
+      "license": "CC0",
+      "url": "https://opengameart.org/content/park-ambiences",
+      "originalSha256": "dc1a5ac34b89cab7f8f261b53a23da7c1c5e3cc895aae4cb6fb4a1a04001b2af",
+      "modifications": "Runtime 40-second excerpt, fades and gain; original retained in SourceArt/AudioOriginals."
+    }
+  ],
+  "runtimeFiles": {
+    "Assets/Oathfall/Art/Resources/OathfallAudio/Block.ogg": "8e1f820d217d380fde10e969d109db34303e3f4d11c3951926eddef813d04ae2",
+    "Assets/Oathfall/Art/Resources/OathfallAudio/Click.ogg": "9851a69d0c613e13bceef08060ecc4148f098ef487927cbebe270d642398a3b3",
+    "Assets/Oathfall/Art/Resources/OathfallAudio/Close.ogg": "81e976532565f4372abd14e83d2684195fa548d0a28d345de221e56052454f32",
+    "Assets/Oathfall/Art/Resources/OathfallAudio/Equip.ogg": "f29560a2aea95bbfeb643e1e8f56ec2b6f7e32f32ce4e140645a36db81de3253",
+    "Assets/Oathfall/Art/Resources/OathfallAudio/Forest.wav": "2db180664fa7ed51701aed21746012d69c5b0cb8761ac7bbfcfa8900b5f0d82a",
+    "Assets/Oathfall/Art/Resources/OathfallAudio/Impact.ogg": "159def979e8e386c2c539f5e99cc30a080eb2dcb6c911fa2e4ccc0785b2522fd",
+    "Assets/Oathfall/Art/Resources/OathfallAudio/Loot.ogg": "8a91f969e932df709df80ee124d86a51389eed9b67f22e5e716bc2bbf60d8dab",
+    "Assets/Oathfall/Art/Resources/OathfallAudio/OathTheme.wav": "46387b51fe85798faa00d25251007344490ea95bf46f72f8c4efab4b630a97f3",
+    "Assets/Oathfall/Art/Resources/OathfallAudio/Open.ogg": "953390534377222bee89ac8cd9e60a58fdc037c71a4d7c18c43cd647c7f34ba8",
+    "Assets/Oathfall/Art/Resources/OathfallAudio/Rune.wav": "4ae3674f8f6088f276d34ec1b210ba4f13641930458f07f8095315c5b9654b92",
+    "Assets/Oathfall/Art/Resources/OathfallAudio/Step.ogg": "6fe61ef1fc3bcf0e253bf2eb64759db6cb69e2fe452f4d88cc597ecf78a3d601",
+    "Assets/Oathfall/Art/Resources/OathfallAudio/Step2.ogg": "313472dba31fd0c855376069fa368bb5a198c27251cc8398ef464578b7047a4c",
+    "Assets/Oathfall/Art/Resources/OathfallAudio/Swing.ogg": "4cd96dc630bed9840c15f1dd2306da2cc56a4da26a5d3f1a03c5a7265ac5e54f",
+    "Assets/Oathfall/Art/Resources/OathfallAudio/Victory.wav": "38548c7ecf3e510a5a5ec779d386caa99d16f47e92b55e895a895cc43dd92371",
+    "Assets/Oathfall/Art/Resources/OathfallAudio/Ward.wav": "74aac878db6ca8af06f1c2f201fc7113aa971ee054b3239ce6763379820bdd79"
+  },
+  "ownedCues": {
+    "source": "SourceArt/author_soundscape.py",
+    "files": [
+      "OathTheme.wav",
+      "Rune.wav",
+      "Ward.wav",
+      "Victory.wav"
+    ]
+  }
+}

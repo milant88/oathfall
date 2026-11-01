@@ -1,0 +1,41 @@
+{
+  "status": "completed",
+  "duration": 8.25,
+  "summary": {
+    "total": 4,
+    "passed": 4,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.EquipmentInspectionIsReadOnlyAndStudioSuspendsWhenClosed",
+      "Status": "Passed",
+      "Duration": 2.9428665,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.EquipmentMutationClearsStaleDiscardSelection",
+      "Status": "Passed",
+      "Duration": 1.6015113,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.GroundedPickupAddsOnceAndEquipmentChangesDamage",
+      "Status": "Passed",
+      "Duration": 1.7617524,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.KeyboardCanCloseEquipmentAndPauseAtZeroTimeScale",
+      "Status": "Passed",
+      "Duration": 1.8010403,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

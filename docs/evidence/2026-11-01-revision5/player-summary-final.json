@@ -1,0 +1,66 @@
+{
+  "sourceCapture": "C:\\Users\\milan\\AppData\\LocalLow\\DefaultCompany\\Oathfall\\Capture-20261101-135451",
+  "results": [
+    [
+      "death",
+      "348.8",
+      "132"
+    ],
+    [
+      "victory",
+      "630.5",
+      "240"
+    ]
+  ],
+  "auditEvents": [
+    "AUDIT synthetic Gamepad input started; no damage, position or health overrides",
+    "AUDIT stage 0",
+    "AUDIT stage 1",
+    "AUDIT stage 2",
+    "AUDIT stage 3",
+    "AUDIT stage 4",
+    "AUDIT stage 5",
+    "AUDIT death 1",
+    "AUDIT stage 0",
+    "AUDIT stage 1",
+    "AUDIT stage 2",
+    "AUDIT stage 3",
+    "AUDIT stage 4",
+    "AUDIT stage 5",
+    "AUDIT stage 6",
+    "AUDIT stage 7",
+    "AUDIT stage 8",
+    "AUDIT stage 9",
+    "AUDIT stage 10",
+    "AUDIT stage 11",
+    "AUDIT stage 12",
+    "AUDIT victory run 1",
+    "AUDIT ended: victory"
+  ],
+  "applicationErrorMatches": [],
+  "stages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "capture": {
+    "duration": 1028.3141599999965,
+    "first60Frames": 1772,
+    "sourceHz": 29.54,
+    "medianIntervalMs": 31.95,
+    "maxIntervalMs": 543.63,
+    "notPerformanceEvidence": true
+  },
+  "syntheticInput": true,
+  "physicalControllerVerified": false
+}

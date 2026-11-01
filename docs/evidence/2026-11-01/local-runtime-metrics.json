@@ -1,0 +1,16 @@
+{
+  "source": "development player; synthetic driver; local GPU; not minimum-spec proof",
+  "capture_first_65s_excluded": true,
+  "sample_count": 834,
+  "frame_interval_median_ms": 16.6671,
+  "frame_interval_p95_ms": 16.6699,
+  "allocated_memory_min_mib": 155.11967945098877,
+  "allocated_memory_max_mib": 159.11914920806885,
+  "allocated_memory_last_mib": 155.9021511077881,
+  "limitations": [
+    "frame interval is not CPU/GPU execution time",
+    "synthetic driver and HUD allocate",
+    "one focus-loss death occurred; focus-loss pause subsequently added and regression tested",
+    "10 victories; not 10 flawless manual runs"
+  ]
+}

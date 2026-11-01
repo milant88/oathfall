@@ -1,0 +1,176 @@
+{
+  "success": true,
+  "command": "command",
+  "data": {
+    "command": "test run",
+    "parameters": {
+      "mode": "editor",
+      "filter": "Oathfall.Tests.EditMode",
+      "filter_type": "assembly"
+    },
+    "result": {
+      "Summary": {
+        "Total": 20,
+        "Passed": 20,
+        "Failed": 0,
+        "Skipped": 0,
+        "Inconclusive": 0
+      },
+      "Results": [
+        {
+          "FullName": "Oathfall.Tests.EditMode.AttackTimelineTests.EncounterRules_StaggersFirstEnemyAttacksAndMakesDodgesInvulnerable",
+          "Status": "Passed",
+          "Duration": 0.0244855,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.AttackTimelineTests.GetPhase_RejectsTimeOutsideTheAttack",
+          "Status": "Passed",
+          "Duration": 0.0008321,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.AttackTimelineTests.GetPhase_SeparatesWindupActiveAndRecoveryWindows",
+          "Status": "Passed",
+          "Duration": 0.0001988,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.ExpeditionContentTests.DiscardFreesSlotWithoutAllowingDuplicateRecollection",
+          "Status": "Passed",
+          "Duration": 0.0015998,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.ExpeditionContentTests.RouteHasUniqueContentAndBoundedCombatBudgets",
+          "Status": "Passed",
+          "Duration": 0.0016157,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.ExpeditionContentTests.WardRequiresLivingPlayerInsideAndCannotOverflow",
+          "Status": "Passed",
+          "Duration": 0.0004245,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.InventoryTests.ComparisonPredictsSwapWithoutMutatingEquipment",
+          "Status": "Passed",
+          "Duration": 0.0124646,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.InventoryTests.EquippedOrDroppedIdentityCannotBeCollectedAgain",
+          "Status": "Passed",
+          "Duration": 0.0001168,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.InventoryTests.EquipUnequipDoesNotAccumulateStats",
+          "Status": "Passed",
+          "Duration": 0.0003275,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.InventoryTests.FullInventoryRetainsOwnershipAndSwapStillWorks",
+          "Status": "Passed",
+          "Duration": 0.0003713,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.InventoryTests.GeneratorOnlyOffersImplementedEffects",
+          "Status": "Passed",
+          "Duration": 0.011699,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.InventoryTests.LargeFrameStillCrossesActiveWindow",
+          "Status": "Passed",
+          "Duration": 0.0002333,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.InventoryTests.PickupUsesGroundAnchorAndRejectsOtherFloor",
+          "Status": "Passed",
+          "Duration": 0.0001568,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.ItemGeneratorTests.DamageResolver_ArmorReducesButDoesNotNegateDamage",
+          "Status": "Passed",
+          "Duration": 0.0003468,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.ItemGeneratorTests.Generate_ProducesUniqueAffixesWithinAnItem",
+          "Status": "Passed",
+          "Duration": 0.0035824,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.ItemGeneratorTests.Generate_WithSameSeed_ReturnsSameItemData",
+          "Status": "Passed",
+          "Duration": 0.0003275,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.LightingPersistenceTests.LightingSurvivesReimportAndRepeatedAuthoringWithoutDuplicateOverrides",
+          "Status": "Passed",
+          "Duration": 0.182168,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.PresentationBuildGateTests.CompletePresentationPassesBuildGate",
+          "Status": "Passed",
+          "Duration": 0.1139717,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.PresentationBuildGateTests.MissingOrIncompleteGearModelCatalogIsRejected",
+          "Status": "Passed",
+          "Duration": 0.0036923,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.RuntimeHudTests.HeroSelectionHidesRunHudUntilANewRunStarts",
+          "Status": "Passed",
+          "Duration": 0.1947918,
+          "Message": null,
+          "StackTrace": null
+        }
+      ],
+      "Duration": 4.35,
+      "StatusPath": null,
+      "Mode": "EditMode",
+      "FilterApplied": "assembly: Oathfall.Tests.EditMode",
+      "success": true,
+      "result": null
+    },
+    "target": {
+      "host": "127.0.0.1",
+      "port": 7800,
+      "projectPath": "D:\\Projects\\Unity\\Oathfall"
+    }
+  },
+  "errors": [],
+  "warnings": []
+}

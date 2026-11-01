@@ -1,0 +1,156 @@
+{
+  "recordedAtUtc": "2026-11-01T12:09:36.105271+00:00",
+  "gameVersion": "0.1.0",
+  "contentRevision": 4,
+  "sourceRevision": "uncommitted (repository has no HEAD)",
+  "editor": "6000.3.27f2",
+  "packageLockSha256": "18ff6ec56fafa82cfff2819bd9e3e15bd792f40f3b6da43365821535b5add96c",
+  "sourceFileHashes": {
+    "Assets/Oathfall/App/LootLabel.cs": "3e429dc1b843c5f86cb763031dbcc8ffc05dca9255afa445e4ce0fd076da8747",
+    "Assets/Oathfall/App/Oathfall.App.asmdef": "da6e8a707c12f367965ee2e3b16199801bdf7b20a4524ea11479eec7682d7c6c",
+    "Assets/Oathfall/App/OathfallGame.cs": "7ef9c098a891fc06da914e2b23c222368149c7f6c769540c4cf395e0353b9c2f",
+    "Assets/Oathfall/App/RuntimeAuditDriver.cs": "7b11f0ba40c94181cccbed22907e9a8359aa0d0c30f794a638bfb2596f8c3c5c",
+    "Assets/Oathfall/App/RuntimeCapture.cs": "e3f103ca3ac687edf8607dce0d96f78c401834cf13aa2bfc6d7b6cba80e5ac2f",
+    "Assets/Oathfall/App/RuntimeHud.cs": "0043ef2b0856d6a526e0bba8f57d8cc29a6aacda47ff39c55b0fb3730fffb6be",
+    "Assets/Oathfall/App/TopDownCamera.cs": "d17600bbe242b5e10dc098736058471e7c38803ccc5eebfde634a9c501df6277",
+    "Assets/Oathfall/Core/ActorView.cs": "380d510b8b0b52c5a559b11add5844d23ebd5a0896bfe680db011543d6e5f62c",
+    "Assets/Oathfall/Core/AttackTimeline.cs": "f9ad7c426d4aa0df9bc55d8274a7212813c995d5a35d7652679757fa051ec5ba",
+    "Assets/Oathfall/Core/EncounterRules.cs": "626401cd9c105dfa7965dba03189b4bae6713075984df79dd377dac6e3aebae1",
+    "Assets/Oathfall/Core/ExpeditionContent.cs": "ba328897b846e7a7ff5252714965521096330b077b2a5abc0b4e57fdc0f8b651",
+    "Assets/Oathfall/Core/InventoryState.cs": "2cb283ea1d8ae02b475bfe52a52383d105e67fdd31c0148e30f41a5f333eb5c5",
+    "Assets/Oathfall/Core/ItemGenerator.cs": "d7c6277b3f217014efa82eb9b8964a21bae1f4a87ccf3a5f2cc6b93865ea3bee",
+    "Assets/Oathfall/Core/Oathfall.Core.asmdef": "9beacc901af6d728cdabcdf3a9d42da761b2b14af32f1775958dd46dcdf17512",
+    "Assets/Oathfall/Core/OathfallContracts.cs": "1e2d867c7360b2281d85b3ab58eaac05e325a51e9315e4a7684382f321b13846",
+    "Assets/Oathfall/Core/WeaponTrace.cs": "621cffceb6e2ec55464cc68e81c98cc993af465087bb05193a1429ff8d9bac54",
+    "Assets/Oathfall/Editor/CombatClipAuthoring.cs": "acea79d6400fe9334ca001692bec00bc9ba88cc31ef8e346093fd0c94088abe9",
+    "Assets/Oathfall/Editor/EnemyRoleAuthoring.cs": "f662633c7040875e1c538224208a61b61244bfb7813154c2db8074e89d26e2bc",
+    "Assets/Oathfall/Editor/EquipmentIconAuthoring.cs": "1a7552b6fb3444b1b6dee8d23159e1dfb46bdf5d5d921d1c0f10fdc6b204372c",
+    "Assets/Oathfall/Editor/ExpeditionAssets.cs": "9df2282f57717c04875fa77e619c5406eb018d9e691acf1d8526473521d92878",
+    "Assets/Oathfall/Editor/ExpeditionBuildValidator.cs": "3a71660d72149941546945523d2310eaaf82e98167cf73595e91b97c1b39ddbb",
+    "Assets/Oathfall/Editor/HollowwoodExpeditionBuilder.cs": "290555b759d90f2c409bc4d50896ec100b3c0ba66ed5e15414d8957f89fc25e1",
+    "Assets/Oathfall/Editor/Oathfall.Editor.asmdef": "3642ded4457b8d7b4bae774c8afcf9d232d27e8e3f123b24d3b78406e0bc09f5",
+    "Assets/Oathfall/Editor/OathfallVisualAssetSeeder.cs": "562c30835fda6e0e927b6232d1e02e6729f12930a13154ebebd2f2cb90c00e3f",
+    "Assets/Oathfall/Editor/TmpResourceBootstrap.cs": "8c72f2c6fd5795d80f8f7644e60246e75be4bb9a14dc866bbfc934dbc9dad310",
+    "Assets/Oathfall/Editor/WeaponMotionAuthoring.cs": "f803fd9b0c546bbe45b6375e361716fc360cce6474c5062a64cefbcfa784dd7f",
+    "Assets/Oathfall/Editor/WoodlandAtmosphereAuthoring.cs": "ccbf216bc6fffd2079fefb6ae5b490c7955560396b09d2b0fb9905e7336e9c59",
+    "Assets/Oathfall/Gameplay/Combatant.cs": "8a62c9ec49c4e01de1db06d2b290054a2d50fb5cbba05e41b7b0a01a944334ec",
+    "Assets/Oathfall/Gameplay/CombatSpatial.cs": "eeccd09eb4eccefcd3ae0f1ecd93adec39a4c6b49d9b24fabb830a8fd76d9ef6",
+    "Assets/Oathfall/Gameplay/EnemyBrain.cs": "1a1431489a1097da18a90235dba6e0c04d29ff065029c99fdfddce0222962137",
+    "Assets/Oathfall/Gameplay/GameplaySession.cs": "06c1c4e7e15ec1fd1dbf057beca38b1f2581565b557cc38f7e6e2c1b965b5b57",
+    "Assets/Oathfall/Gameplay/LootPickup.cs": "3422ec82e399d5654e2b43e5ec936f3e8a9e28ad03978242cdc5de14815f2402",
+    "Assets/Oathfall/Gameplay/Oathfall.Gameplay.asmdef": "8c6ef4571b37b4406b701154f514df41e103db7113b88fd88ecaa65f5b6ab78b",
+    "Assets/Oathfall/Gameplay/PlayerController.cs": "968e1555183361d5d7349471383f658b88846db17db0131bb090f4daece8324f",
+    "Assets/Oathfall/Gameplay/RunePulse.cs": "3470117ce93d1832a1ec84933199f3bc13af28d43503ef57b36ced07632a2152",
+    "Assets/Oathfall/Presentation/ActorPresentationController.cs": "a270e6ad8a50894fae865c8a19e4edf68cbdabcc263050a9aaed36d59dc3332a",
+    "Assets/Oathfall/Presentation/ActorPresentationDefinition.cs": "d38074a95b24c4fb1c77dc500835f92ed08d97e41dd877d52f8cf8cdf4efbdb8",
+    "Assets/Oathfall/Presentation/CameraOccluder.cs": "9bba5999431d58abca94d7056e38c3e124c2d78c5b3d7a39db01b002ad3b50b8",
+    "Assets/Oathfall/Presentation/CombatFeedbackView.cs": "20c99f8596c771f98dabbfa66c1362a154e8ac83b7e9b0216d0a0b382f610d07",
+    "Assets/Oathfall/Presentation/HollowwoodSceneContext.cs": "2009801483c5c8c5bf3a20e9a5905507de0d34e976385abef54a2c3318b97d2d",
+    "Assets/Oathfall/Presentation/MonumentPose.cs": "1133aff4406d8708bc67fa74b80657a1407fde65f7d0c4b6af6aae2b371c7ad1",
+    "Assets/Oathfall/Presentation/Oathfall.Presentation.asmdef": "c613b4b876296a21a3db44a057aae4fa07bf36dbb94f8619c360eb64ed7e1b07",
+    "Assets/Oathfall/Presentation/PresentationAssemblyMarker.cs": "1d339dec4feba08d0e783f6b4dd4bda83c4b675abd2cfa5e530ec8ac17e0355a",
+    "Assets/Oathfall/Presentation/PresentationContracts.cs": "a52ea6716c5a6fa381388a1dd6549b8c0315884e75df23776550e1cf42a07831",
+    "Assets/Oathfall/Presentation/PresentationPalette.cs": "3475d41fe4b4784a56b63bbb2e0d83f19cb4b64eacdc5a1c4cb3edf880f30863",
+    "Assets/Oathfall/Presentation/PresentationSettings.cs": "af6686bf6cda689b7813bea350174deba8d836e11718356a8b48c1578cf277f1",
+    "Assets/Oathfall/Presentation/WeaponMotionLibrary.cs": "225ed396b3419cf2067621ff20d9a2ca30e0742d7dd5b56787c5d448ee9ceaf1",
+    "Assets/Tests/EditMode/AttackTimelineTests.cs": "a2f85856a9244129f43d418521759884fe3a682d3ac72478319b689b15d6877b",
+    "Assets/Tests/EditMode/EquipmentRegressionTests.cs": "2c95a7bad68f285d69410474768433d11c96c40f79d602af933319b44818b823",
+    "Assets/Tests/EditMode/ExpeditionContentTests.cs": "436afead9188327318c4e45000e4f36484c8c55f15d698f1e71564a87e04f5f1",
+    "Assets/Tests/EditMode/ItemGeneratorTests.cs": "5a0ff0da0824730d7c385f69fd24b75b8dbd8148c418e2c894a8eeeb1b67e459",
+    "Assets/Tests/EditMode/LightingPersistenceTests.cs": "0eb2ec11791d9a31f09ba7cdf2c28a53177a15dab71408f25ddb8a5f5e7ad752",
+    "Assets/Tests/EditMode/Oathfall.Tests.EditMode.asmdef": "2a196d9be5995f6639175a0935c167b8e0d4044078fd545f4e59e5c4f9cbf5d6",
+    "Assets/Tests/EditMode/RuntimeHudTests.cs": "a6edd3701875473e3264d371941855157c655f52da7d31d6393c4f02dfa2ef34",
+    "Assets/Tests/PlayMode/ExpeditionTests.cs": "750d0a888594f51999ee5b0b4d92668ad2a8b6bb523e0ffa89cd902e2a706f9e",
+    "Assets/Tests/PlayMode/Oathfall.Tests.PlayMode.asmdef": "d001d74072981315e7b7f92a4e177ad0c3924e1d671a7b095b6c0bcbfe328d78",
+    "Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs": "d2023934bc2be23af69cd930ade85eff41c5db0a6f6666b05324b975befdb5b5",
+    "Assets/TutorialInfo/Scripts/Readme.cs": "c09c93844f93eb252a6fb39c222d169c63a63e96008fd040b9e7628c3e7ccc2e"
+  },
+  "sceneSha256": "9ecdfb004bd3bd9416521f7de6562375b23a40411c343a2e20044fa6ba0b8965",
+  "ownedArtManifestSha256": "c84ca62212ddfae057274c3d2a09d56a8ea61024d8ef35488d853ebb4eae3b94",
+  "builds": {
+    "development": {
+      "buildId": "build_bef0efdc9af6",
+      "status": "completed",
+      "result": "Succeeded",
+      "totalErrors": 0,
+      "totalWarnings": 0,
+      "totalSizeBytes": 682628160,
+      "buildTimeMs": 14316,
+      "outputPath": "D:/Projects/Unity/Oathfall/Builds/Oathfall-Hollowwood-Development/Oathfall.exe",
+      "executableSha256": "242cac5affae0cf9a30db6a45bd1e91d3ffa33b8d08b99cb7b7e2ccffe4738d0",
+      "ownedAssemblyHashes": {
+        "Oathfall.App.dll": "cd23c90760a764130b57671738e354aa014f7a0df7ede0d442794ca764b144a1",
+        "Oathfall.Core.dll": "3a187ec5441c14f3adf3fe8479cde411f9e3528c660ba919dbc669c713b19c02",
+        "Oathfall.Gameplay.dll": "34c8af7003edc346d99b048f28a4231b51c521ec15dae470e95e6385bef6020e",
+        "Oathfall.Presentation.dll": "70af99dd7cd2f219c1c6d4ee256b315fb988bcfb9ae74468667e1d6bf8046687"
+      }
+    },
+    "release": {
+      "buildId": "build_51da7791f0da",
+      "status": "completed",
+      "result": "Succeeded",
+      "totalErrors": 0,
+      "totalWarnings": 0,
+      "totalSizeBytes": 615998954,
+      "buildTimeMs": 21400,
+      "outputPath": "D:/Projects/Unity/Oathfall/Builds/Oathfall-Hollowwood-Release/Oathfall.exe",
+      "executableSha256": "d91dbfa5c7d67cdf2c521d83112df029079f358519a1282d531baad4e1cd80c9",
+      "ownedAssemblyHashes": {
+        "Oathfall.App.dll": "1f23d28c5d036ca8d83547925a3115a32822f57f77df5307879a240055611917",
+        "Oathfall.Core.dll": "08bac15ff1f60305668e40dd3001a1ac767f07e789068a8580acb22aad28333a",
+        "Oathfall.Gameplay.dll": "0e7e3195f859549dea69edbb53fd781c16da2dd5da9d0ae312d068793f3390e8",
+        "Oathfall.Presentation.dll": "b183f542a5cb5abd9c23af8876cc2c40417c6ec102eacef318e02f85af14af25"
+      }
+    }
+  },
+  "tests": {
+    "editMode": 17,
+    "playMode": 25,
+    "failed": 0
+  },
+  "acceptance": "Local revision-4 gate passed: 42 tests, both Windows builds, complete synthetic victory. Production AA art, human pacing, physical controller, ten-run soak and minimum-spec gates remain open.",
+  "completeRun": {
+    "activeSeconds": 707.7,
+    "displayTime": "11:47",
+    "defeated": 232,
+    "deaths": 0,
+    "input": "synthetic Gamepad combat/movement; direct equipment selection APIs",
+    "healthDamagePositionOverrides": false,
+    "captureHzApprox": 5,
+    "audioCaptured": false,
+    "playerLog": "player-log.txt",
+    "trace": "input-audit.csv",
+    "recordingSeconds": 708.32
+  },
+  "evidence": {
+    "input-audit.csv": {
+      "bytes": 86744,
+      "sha256": "06a2211085d377ac24fd308bcb92cee5c8c0a065086f301f59afa5d4a9e0f66e"
+    },
+    "player-log.txt": {
+      "bytes": 19864,
+      "sha256": "eb3a1200a0894c4031a47fa978a771308fc2bbe6f9cd21d04962e51e7eaca7bb"
+    },
+    "full-expedition.mp4": {
+      "bytes": 547046008,
+      "sha256": "846c2f47e74aa18d99daea90d933ff261c5bed0afb15c9e4c22ad5d3b1aa9028"
+    },
+    "gameplay-60s.mp4": {
+      "bytes": 51593955,
+      "sha256": "50b74bd1961e46c11310ef0d591d9fcec2c7b144da1c492e83070039f69b0649"
+    },
+    "victory-1080.jpg": {
+      "bytes": 264587,
+      "sha256": "9f71319f5a5f7dc878060683585f9da2eb8b8fdddfcaead504b605d2f9fd4173"
+    },
+    "release-final-1080.jpg": {
+      "bytes": 322135,
+      "sha256": "ffd5e48eef4172e00df6d91e0586e90b3c53667f687ba2a6e7a566eb5fea38d6"
+    },
+    "full-run-review.jpg": {
+      "bytes": 151165,
+      "sha256": "e1b00a4fbfd99e8512b5dc00618a6e722d6d94debea9c509162d87b13ba11412"
+    }
+  },
+  "releaseSmoke": "Final ordinary build launched at 1920x1080; native mouse selection started fresh Dawnwarden expedition, health 150/150, stage 1/12, no synthetic audit. Left open for user."
+}

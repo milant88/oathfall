@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "duration": 3.52,
+  "summary": {
+    "total": 2,
+    "passed": 2,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.EncounterSpawnsStayOnConnectedGround",
+      "Status": "Passed",
+      "Duration": 2.1549963,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.SpawnReachabilityProjectsPlayerStandingOutsideAgentClearance",
+      "Status": "Passed",
+      "Duration": 1.2359676,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

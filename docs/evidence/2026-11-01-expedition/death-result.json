@@ -1,0 +1,20 @@
+{
+  "status": "completed",
+  "duration": 4.15,
+  "summary": {
+    "total": 1,
+    "passed": 1,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.HeroDeathFinishesPresentationThenAllowsCleanExpedition",
+      "Status": "Passed",
+      "Duration": 4.0461996,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

@@ -1,0 +1,797 @@
+{
+  "gameVersion": "0.1.0",
+  "contentRevision": 5,
+  "editorVersion": "6000.3.27f2",
+  "urpVersion": "17.3.0",
+  "target": "StandaloneWindows64",
+  "sourceRevision": null,
+  "sourceStatus": "Uncommitted; repository has no HEAD. No commit requested.",
+  "recordedUtc": "2026-11-01T13:57:10.281044+00:00",
+  "packageLockSha256": "18ff6ec56fafa82cfff2819bd9e3e15bd792f40f3b6da43365821535b5add96c",
+  "sourceContentDigest": "5299dcaff355f9e24100b90349f26ebff40ad74cc6cafa747f7a16d0f90dbe4d",
+  "sourceFiles": [
+    {
+      "path": "Assets/Oathfall/App/GearPreview.cs",
+      "sha256": "7a8a7d343380a00f5bf6d55de630c454ba1dfad9b53159a002ed3c60c97d9a16"
+    },
+    {
+      "path": "Assets/Oathfall/App/LootLabel.cs",
+      "sha256": "3e429dc1b843c5f86cb763031dbcc8ffc05dca9255afa445e4ce0fd076da8747"
+    },
+    {
+      "path": "Assets/Oathfall/App/Oathfall.App.asmdef",
+      "sha256": "da6e8a707c12f367965ee2e3b16199801bdf7b20a4524ea11479eec7682d7c6c"
+    },
+    {
+      "path": "Assets/Oathfall/App/OathfallGame.cs",
+      "sha256": "b00b78fb2aa2e84d91c797563f84305550dcb5d506e4a6e610e0751a0aea12ef"
+    },
+    {
+      "path": "Assets/Oathfall/App/RuntimeAudioCapture.cs",
+      "sha256": "a5853c9ec9e9e346f07b249da71c851ac74a2d901289b9d7510e780b364e1c5e"
+    },
+    {
+      "path": "Assets/Oathfall/App/RuntimeAuditDriver.cs",
+      "sha256": "b4edc579e854b72e2673e8e2a644bce1d06868986462c0341c1e2e35bea7d357"
+    },
+    {
+      "path": "Assets/Oathfall/App/RuntimeCapture.cs",
+      "sha256": "129bd38ae1aa391f95eeef4de3ea29a5b8931dca7b564d11270719e37a185ad8"
+    },
+    {
+      "path": "Assets/Oathfall/App/RuntimeHud.cs",
+      "sha256": "0a6c88f385987c9c01c04fd68251dca091c423a23bb3185352377baccf977b00"
+    },
+    {
+      "path": "Assets/Oathfall/App/RuntimeHud.Equipment.cs",
+      "sha256": "a63bacf757e17b1efa4738f014f9f1f4a4c848276c3863af28b367bb74a35885"
+    },
+    {
+      "path": "Assets/Oathfall/App/TopDownCamera.cs",
+      "sha256": "d17600bbe242b5e10dc098736058471e7c38803ccc5eebfde634a9c501df6277"
+    },
+    {
+      "path": "Assets/Oathfall/Art/breaker.asset",
+      "sha256": "2becef104e66815e0776b39442721d23150fc328034a6272794ffecf6ac9e8c2"
+    },
+    {
+      "path": "Assets/Oathfall/Art/breaker.prefab",
+      "sha256": "7934e0fbf1eb11852e29f781d25d9255c93ec6fb9f74a3904e210553c875f04a"
+    },
+    {
+      "path": "Assets/Oathfall/Art/breakerWeaponMotion.asset",
+      "sha256": "d4d4e1dee46167d947efc2b70f2849090fd2a5d432b9cfdc2af6bcecef760d59"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Breastplate_84.asset",
+      "sha256": "ac3c99f6025af7dae81e4cd70ec166568a4a4fc048033ba65e65d670d0053690"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Dawnwarden.asset",
+      "sha256": "c3c940f2c808410df928d0f74c2346e491f922a1b73d6a5166dd59112aa4155c"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Dawnwarden.controller",
+      "sha256": "26b6cc50f42d7979c00de16ec8ef8229896e4a7ecee4bde0dc8492a0b109f38a"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Dawnwarden.prefab",
+      "sha256": "10ef7a75d68d94175fbcc918a9e1028beead2f6f5b85244cc21cdc186c7e3731"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Dawnwarden_Combo1.anim",
+      "sha256": "ca728b3d2241896a741a309ffcefe003ce65f496645531a74816cdf993528ccc"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Dawnwarden_Combo2.anim",
+      "sha256": "aef519c86bf2d8a2ad8c6a679c16285ee9606d2450f3b942a162c6fbc263ba7f"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Dawnwarden_Combo3.anim",
+      "sha256": "0055cf8a2d6ede07990570e7ab92340c461893df68c6e7137d54465830b2ac81"
+    },
+    {
+      "path": "Assets/Oathfall/Art/DawnwardenWeaponMotion.asset",
+      "sha256": "a70e5eee5be87b78c33f1539352d475f5043e8a4a067ec6883d60fad6afd3f61"
+    },
+    {
+      "path": "Assets/Oathfall/Art/DryForestMask.asset",
+      "sha256": "87bed25d67412dd96950a16b08606fe33341ab050570076c467e2ae261b432a0"
+    },
+    {
+      "path": "Assets/Oathfall/Art/EquipmentDrop.prefab",
+      "sha256": "b788cd5e2a97502bec81d4291b2c1dbd24edd923b85d8c0e7e50441a4ac4bd1b"
+    },
+    {
+      "path": "Assets/Oathfall/Art/GearBody.prefab",
+      "sha256": "6d18fdd2016b8e3c32d8efe50221b956bbb4bd8f0052c8ba7c69426a44df4731"
+    },
+    {
+      "path": "Assets/Oathfall/Art/GearBoots.prefab",
+      "sha256": "1afe2ed4fddc6f6b828a9a74fff2857aa138778048fda438a4b59e3e3dbba33c"
+    },
+    {
+      "path": "Assets/Oathfall/Art/GearCharm.prefab",
+      "sha256": "f6b7af4d9b88aab9a55658988f4e27808a6e4a744e8c8036bb328b1b8f7542bd"
+    },
+    {
+      "path": "Assets/Oathfall/Art/GearHead.prefab",
+      "sha256": "1a1bcca73c5dbc49e7d2bc7d7e87e8ea04e06b0dbc8e2314bdbf605e34f292fd"
+    },
+    {
+      "path": "Assets/Oathfall/Art/GearOffhand.prefab",
+      "sha256": "6fce1a6eca4160ae9fda3903b56ea582693f84a935d78851b3ed0e66e23cbef0"
+    },
+    {
+      "path": "Assets/Oathfall/Art/GearWeapon.prefab",
+      "sha256": "09e57a4b9ab017f06f772c52372ff83aeedc767c21a770e1b5434f5e6dd6ee2a"
+    },
+    {
+      "path": "Assets/Oathfall/Art/guardian.asset",
+      "sha256": "b93bff8877887849f6e45098e1e9482c8b34e252becd0a675a446f76934b8d7c"
+    },
+    {
+      "path": "Assets/Oathfall/Art/guardian.prefab",
+      "sha256": "ad5d4329065f477c32e5bb545a239c3eeac9a2305807145dccfbe4efebc6c778"
+    },
+    {
+      "path": "Assets/Oathfall/Art/guardianWeaponMotion.asset",
+      "sha256": "733010d7da7932433bb69a6001609c26dd2e0017468160c45c47285056e67b52"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Helm_84.asset",
+      "sha256": "4f588cb52916aab0824f0abf02d337d3ac697d37f09f06724dd5af357ff7e61b"
+    },
+    {
+      "path": "Assets/Oathfall/Art/hexblade.asset",
+      "sha256": "1482fcb595724a2e6a61259581eb30b0336388e4d47dac38c8cf9dacc295a2e5"
+    },
+    {
+      "path": "Assets/Oathfall/Art/hexblade.prefab",
+      "sha256": "ccfa5d3de3057282bb09fe52449b5fe3513342d3bacc27327e339e4d2dcc49da"
+    },
+    {
+      "path": "Assets/Oathfall/Art/hexbladeWeaponMotion.asset",
+      "sha256": "4eb4fe9c8e285346a28c1dfbf454b530cb7fd2dc6186c759fe827208f2ad39ab"
+    },
+    {
+      "path": "Assets/Oathfall/Art/HollowwoodLighting.asset",
+      "sha256": "07558240ba16428ac0a3f54194a9d5bab9ffff49f0fa7dd728c04096e2a08d9c"
+    },
+    {
+      "path": "Assets/Oathfall/Art/HollowwoodNavigation.asset",
+      "sha256": "345880547e121fd81c3d7b34e3ca1ff6c96b80dbc5a4f7efeed5ffdff83d32e2"
+    },
+    {
+      "path": "Assets/Oathfall/Art/HollowwoodRaider.asset",
+      "sha256": "1ffbdbb426324d7db672c8a6eb70db350b1361c9f671566bee0d420d6b1edae0"
+    },
+    {
+      "path": "Assets/Oathfall/Art/HollowwoodRaider.controller",
+      "sha256": "f8abdeb89a0528e649b4e317ec0e3aecfd14e365e218660e597800cd34589aba"
+    },
+    {
+      "path": "Assets/Oathfall/Art/HollowwoodRaider.prefab",
+      "sha256": "ee74aaba549bd3d6060084ba5111add8ee557432c43016ab70d9387a0466e488"
+    },
+    {
+      "path": "Assets/Oathfall/Art/HollowwoodRaiderWeaponMotion.asset",
+      "sha256": "e5b9728fb8fd73ac1e2e232a038726bf4dd05333ffc66b88daf25b5b7f8bc6d8"
+    },
+    {
+      "path": "Assets/Oathfall/Art/HollowwoodTerrain.asset",
+      "sha256": "93d56b3cd231473db7e362d66f975b260c308668781ea76f32eaf7311c9aef84"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Left_pauldron_84.asset",
+      "sha256": "4220f9d951393ecea48728712b63e223bac554e9c4c9ea347e62b3ac96b4ea74"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/SilverOak0.prefab",
+      "sha256": "6b5d651d9d19f866ce017fb320405dbebcc1ff8116035cea261d5ea242414bdb"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/SilverOak1.prefab",
+      "sha256": "4a05fa7b85b97c248b1543e216ba4c059ca63e30c7e912d3ed599ab46e31bbe5"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/SilverOak2.prefab",
+      "sha256": "b487d6b8510eff2aede32e3c7062230903ad340f76aab0d361dcd5ea166e661e"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallGear.asset",
+      "sha256": "1cd5d2141601ae3d692953b2ed13a9d0b2313cac2e786ed2ea5763d89391d9cf"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Right_pauldron_84.asset",
+      "sha256": "ec44d6276e5cae6dedb96e2a72f524ce25cbb95cb342ca0a4f682829f4129592"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Shield_Socket_84.asset",
+      "sha256": "74b1c9c6be0303516a5feb064e890469438d20e502523ced99e0b791355ef1e8"
+    },
+    {
+      "path": "Assets/Oathfall/Art/SoftParticle.asset",
+      "sha256": "7027e3b27902864248d90c3c94085e9ab0d2003679c1e2b63363eaae053e5523"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Cuirass piping.001.asset",
+      "sha256": "0122f002372de79c116c80e7c392711758a634278428a3718b224b865cc13541"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Cuirass piping.002.asset",
+      "sha256": "ecfb9de47c9e580c23fb126e215480fe4f9b51a96687f666c2871076e5215ce9"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Cuirass piping.asset",
+      "sha256": "328474110c4cd889d378177dbc49fc7a3f8c14e03809f98ebdec6fed16bda209"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Eyebrows.asset",
+      "sha256": "7ea5a308ceffaafd90e277f8db8ca7894389c8af11e0b384abad138afe9c78ed"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Eyes.asset",
+      "sha256": "947210d496f5088e27dd8d7731ce0d0947c0796a04c8c5d9b98aefbac64d8b76"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Fitted cuirass.asset",
+      "sha256": "517ee46be4d4dc84ce68a38b517a843676873f46a66c364f6e758d2944d09023"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Forged blade.asset",
+      "sha256": "1685e8a1c59a40aa0164435d8594fa791d10d511ea98c45e09442809ff965fd0"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Knee band.001.asset",
+      "sha256": "99e3b3785b96f2018dcccf4683c058fa9e49706da3e76f09a490931bf95a0b92"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Knee band.asset",
+      "sha256": "5f47a383aac65f3fbc79ec0c0078a248836e1559d3db7f4757d8f62ee2bec68d"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Layered pauldron.001.asset",
+      "sha256": "29709a83e1623199302dbb16a20ec3023f43f1dca36b12014a7ebfa2360b1467"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Layered pauldron.asset",
+      "sha256": "d1941fc1fa25c6c00448075d5294fb8e8b627a3780f894411e2491e3564da5f1"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Oath helm.asset",
+      "sha256": "3ee0bf619f394fb9cefd07af581bd05ca4e67a0d343ff9126535cbf797ba3fc3"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Oath kite shield.asset",
+      "sha256": "3c3c8f5dc8c5ed07d8352275b5c708774c812bcb23cf3dc8dafb1a8f4295bf97"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Oath mantle.asset",
+      "sha256": "e01762db7ad118b5350076c4bd608a491fe547cdfdbc79b29656b673b4181e22"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Pauldron rim.001.asset",
+      "sha256": "4f87dd54a7ac662774b297938373672dc5d29aeb73915ac48c128d185f24bf62"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Pauldron rim.asset",
+      "sha256": "f7e083b372b5a21f66067a236e8179c1bf515e0b08ea601c4b1b2fc79951bd02"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Shin armour.001.asset",
+      "sha256": "60fa50ceaa0244f2bf559eb3d13c26e7414a30ae7c4994f3b13e2f711776b7e8"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Shin armour.asset",
+      "sha256": "9dcd6dd9e5918d1f73b7aaa809f912dafe4d101ce3549745ea29ee4252e01a95"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_SuperHero_Male.asset",
+      "sha256": "ff9b1b4296835b77a922ed927adb0e653c556d2f0fbd125b433659340f2e8d5c"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Sword crossguard.asset",
+      "sha256": "ec0463df2d4d56c23a3caaca67d483749f57d89db99d64d56184a9bdc4b70225"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Sword grip.asset",
+      "sha256": "e525706d20b68398046d2cf51aa974ea5d1114821c5f3b9ab81f21b019137840"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Visor.asset",
+      "sha256": "c83c87a356f181f170fcb8db79a77ddb762a0bc0fbbbebe2fd0d74d2ef9e25d9"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Statue_Waist belt.asset",
+      "sha256": "d1b4483d2d4251049ec1bbfe7bb836a07f320fe608fb0f6b72d4491d704753e8"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Sword_A_Complete.anim",
+      "sha256": "a80858852f93ea2f39d16dcbc30fe4d8ae530630da6cc4dc0955d41a31b12ba8"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Sword_B_Complete.anim",
+      "sha256": "c2fc6f79033b86c9c3b59747f3821883c86c08c19c553dc4f5cb004b131d8959"
+    },
+    {
+      "path": "Assets/Oathfall/Art/Sword_Socket_7.asset",
+      "sha256": "64341ee608746cb5155f35f8808d68066c7f55eec1e97776973ddfa8463ae399"
+    },
+    {
+      "path": "Assets/Oathfall/Core/ActorView.cs",
+      "sha256": "380d510b8b0b52c5a559b11add5844d23ebd5a0896bfe680db011543d6e5f62c"
+    },
+    {
+      "path": "Assets/Oathfall/Core/AttackTimeline.cs",
+      "sha256": "f9ad7c426d4aa0df9bc55d8274a7212813c995d5a35d7652679757fa051ec5ba"
+    },
+    {
+      "path": "Assets/Oathfall/Core/EncounterRules.cs",
+      "sha256": "626401cd9c105dfa7965dba03189b4bae6713075984df79dd377dac6e3aebae1"
+    },
+    {
+      "path": "Assets/Oathfall/Core/ExpeditionContent.cs",
+      "sha256": "ba328897b846e7a7ff5252714965521096330b077b2a5abc0b4e57fdc0f8b651"
+    },
+    {
+      "path": "Assets/Oathfall/Core/InventoryState.cs",
+      "sha256": "e0906580a59d2e69da2e1c9cdde68c99e16c221677fdab8145720e8563ccdc4d"
+    },
+    {
+      "path": "Assets/Oathfall/Core/ItemGenerator.cs",
+      "sha256": "d7c6277b3f217014efa82eb9b8964a21bae1f4a87ccf3a5f2cc6b93865ea3bee"
+    },
+    {
+      "path": "Assets/Oathfall/Core/Oathfall.Core.asmdef",
+      "sha256": "9beacc901af6d728cdabcdf3a9d42da761b2b14af32f1775958dd46dcdf17512"
+    },
+    {
+      "path": "Assets/Oathfall/Core/OathfallContracts.cs",
+      "sha256": "1e2d867c7360b2281d85b3ab58eaac05e325a51e9315e4a7684382f321b13846"
+    },
+    {
+      "path": "Assets/Oathfall/Core/WeaponTrace.cs",
+      "sha256": "621cffceb6e2ec55464cc68e81c98cc993af465087bb05193a1429ff8d9bac54"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/ArtReviewCapture.cs",
+      "sha256": "3637041427c933cfe42fa65423dd067dd2bc89c67e87ccc9d1d14277d1eed904"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/AudioAssetAuthoring.cs",
+      "sha256": "5dbf19a2a2c60270103e39efed28087ea98dfa93abae034888c7543ba89c46f9"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/CombatClipAuthoring.cs",
+      "sha256": "acea79d6400fe9334ca001692bec00bc9ba88cc31ef8e346093fd0c94088abe9"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/ComboMotionAuthoring.cs",
+      "sha256": "d4fd685a7c2c3955121275d2b8451a00566c7b91f93dd13dd0c42276c18869f6"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/EnemyRoleAuthoring.cs",
+      "sha256": "bd795e5816aac8153059791ab84480847172d5f3800bf4b0459cbfbd3745fc86"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/EquipmentIconAuthoring.cs",
+      "sha256": "1a7552b6fb3444b1b6dee8d23159e1dfb46bdf5d5d921d1c0f10fdc6b204372c"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/ExpeditionAssets.cs",
+      "sha256": "e75215556eef3c26a0246f36adf2e1f5889433f713c97f217196a4305dd98d3f"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/ExpeditionBuildValidator.cs",
+      "sha256": "86acb6c7f71acd183c32feacb2dfb12f7b1fc0bbf4c7d7e3106dcc168a619f67"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/ForestDetailAuthoring.cs",
+      "sha256": "0a62a288f9f1ec6f2e2ddfdbbc931188a015be827294adbfe61ebadd5b7a6519"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/GearAssetAuthoring.cs",
+      "sha256": "4253545505560fdfdc6065bd6488dd351c6de295f4362ee87ef8d4c90e1d50be"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/HollowwoodExpeditionBuilder.cs",
+      "sha256": "79e477fd8ca13e1c4defd140c5e774c91aec59afa64ba815b100c74bb5a1284c"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/Oathfall.Editor.asmdef",
+      "sha256": "3642ded4457b8d7b4bae774c8afcf9d232d27e8e3f123b24d3b78406e0bc09f5"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/OathfallVisualAssetSeeder.cs",
+      "sha256": "562c30835fda6e0e927b6232d1e02e6729f12930a13154ebebd2f2cb90c00e3f"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/TmpResourceBootstrap.cs",
+      "sha256": "8c72f2c6fd5795d80f8f7644e60246e75be4bb9a14dc866bbfc934dbc9dad310"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/WeaponMotionAuthoring.cs",
+      "sha256": "bd35f0e05128a8a343433ef2335d34e8a276ed84f734fcd5985c01087ac6dc48"
+    },
+    {
+      "path": "Assets/Oathfall/Editor/WoodlandAtmosphereAuthoring.cs",
+      "sha256": "ccbf216bc6fffd2079fefb6ae5b490c7955560396b09d2b0fb9905e7336e9c59"
+    },
+    {
+      "path": "Assets/Oathfall/Gameplay/Combatant.cs",
+      "sha256": "8a62c9ec49c4e01de1db06d2b290054a2d50fb5cbba05e41b7b0a01a944334ec"
+    },
+    {
+      "path": "Assets/Oathfall/Gameplay/CombatSpatial.cs",
+      "sha256": "b886e1fea733f7001d62accde2202af7b131cf9a4f4b362cd5b4ebac7fbd0eb3"
+    },
+    {
+      "path": "Assets/Oathfall/Gameplay/EnemyBrain.cs",
+      "sha256": "1a1431489a1097da18a90235dba6e0c04d29ff065029c99fdfddce0222962137"
+    },
+    {
+      "path": "Assets/Oathfall/Gameplay/GameplaySession.cs",
+      "sha256": "06c1c4e7e15ec1fd1dbf057beca38b1f2581565b557cc38f7e6e2c1b965b5b57"
+    },
+    {
+      "path": "Assets/Oathfall/Gameplay/LootPickup.cs",
+      "sha256": "3422ec82e399d5654e2b43e5ec936f3e8a9e28ad03978242cdc5de14815f2402"
+    },
+    {
+      "path": "Assets/Oathfall/Gameplay/Oathfall.Gameplay.asmdef",
+      "sha256": "8c6ef4571b37b4406b701154f514df41e103db7113b88fd88ecaa65f5b6ab78b"
+    },
+    {
+      "path": "Assets/Oathfall/Gameplay/PlayerController.cs",
+      "sha256": "968e1555183361d5d7349471383f658b88846db17db0131bb090f4daece8324f"
+    },
+    {
+      "path": "Assets/Oathfall/Gameplay/RunePulse.cs",
+      "sha256": "e730c02a7d2a0673d5e46efc9446de753b9e40fef479dca2c72073d859260f4c"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/ActorPresentationController.cs",
+      "sha256": "6c147f7cfcb69be3d1a7b6593f5739d9050cc1e6dd5f4e005afe08c620459c6d"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/ActorPresentationDefinition.cs",
+      "sha256": "d38074a95b24c4fb1c77dc500835f92ed08d97e41dd877d52f8cf8cdf4efbdb8"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/CameraOccluder.cs",
+      "sha256": "9bba5999431d58abca94d7056e38c3e124c2d78c5b3d7a39db01b002ad3b50b8"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/CombatFeedbackView.cs",
+      "sha256": "20c99f8596c771f98dabbfa66c1362a154e8ac83b7e9b0216d0a0b382f610d07"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/GearCatalog.cs",
+      "sha256": "0a0a5c94d595d59a3b71fdaf04f6f82e8b45d42193c2b3aa5ec020eae53e0a81"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/Generated/Animation/Dawnwarden_Presentation.controller",
+      "sha256": "f08bbaa994f7950634c2df928aa4a5522f4526532c363b1453537be5d3055b42"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/Generated/Animation/Raider_Presentation.controller",
+      "sha256": "f9c7a0cb484303662b3b9b56e8b45542e759f55da1e796d7cde70fc273ea44bd"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/Generated/Definitions/Dawnwarden.asset",
+      "sha256": "2d08425d15bda91fa5a1ee6b76c0f7b569e217abfb99ea1a1f87cc89f6cad65f"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/Generated/Definitions/HollowwoodPalette.asset",
+      "sha256": "356bba89e6615e9f16f020f9fc7a173942a36a773c0b038c0023e1486abbdd68"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/Generated/Definitions/HollowwoodRaider.asset",
+      "sha256": "7406b81c7affcb484a88ae2f7ff4adfd5f5fa0afcd8cef7401569a7fa8f3b1e2"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/Generated/Hollowwood_Look.asset",
+      "sha256": "a102e8278a470286eb7913e773abd5b465c8c9cb45e0363f73e0ac75557a7b50"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/HollowwoodSceneContext.cs",
+      "sha256": "2009801483c5c8c5bf3a20e9a5905507de0d34e976385abef54a2c3318b97d2d"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/MonumentPose.cs",
+      "sha256": "1133aff4406d8708bc67fa74b80657a1407fde65f7d0c4b6af6aae2b371c7ad1"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/Oathfall.Presentation.asmdef",
+      "sha256": "c613b4b876296a21a3db44a057aae4fa07bf36dbb94f8619c360eb64ed7e1b07"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/PresentationAssemblyMarker.cs",
+      "sha256": "1d339dec4feba08d0e783f6b4dd4bda83c4b675abd2cfa5e530ec8ac17e0355a"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/PresentationContracts.cs",
+      "sha256": "a52ea6716c5a6fa381388a1dd6549b8c0315884e75df23776550e1cf42a07831"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/PresentationPalette.cs",
+      "sha256": "3475d41fe4b4784a56b63bbb2e0d83f19cb4b64eacdc5a1c4cb3edf880f30863"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/PresentationSettings.cs",
+      "sha256": "ac91433bc05c80b89b107933d269eb9f2dde606412d00d0bd5712d7dd57a1447"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/Soundscape.cs",
+      "sha256": "8c31eea9756e9d194d286f129a98605a77d61a909d306254286c269e1326c327"
+    },
+    {
+      "path": "Assets/Oathfall/Presentation/WeaponMotionLibrary.cs",
+      "sha256": "225ed396b3419cf2067621ff20d9a2ca30e0742d7dd5b56787c5d448ee9ceaf1"
+    },
+    {
+      "path": "Assets/Oathfall/ThirdParty/Kenney/RpgAudio/LICENSE.txt",
+      "sha256": "6f12f89bf8d1cc417b25afd1f8e6d9560b2b1d1ac2b175cf4ee9c377e180783d"
+    },
+    {
+      "path": "Assets/Oathfall/ThirdParty/Quaternius/Animations/License.txt",
+      "sha256": "6d01f55c6e4c49a2c9963e147e561945ae2c83958c8ca667d90a6bffdbfac061"
+    },
+    {
+      "path": "Assets/Oathfall/ThirdParty/Quaternius/Animations/License2.txt",
+      "sha256": "6d01f55c6e4c49a2c9963e147e561945ae2c83958c8ca667d90a6bffdbfac061"
+    },
+    {
+      "path": "Assets/Oathfall/ThirdParty/Quaternius/Characters/License.txt",
+      "sha256": "0f4beaf0fe360a7732e58bbe3dbf60a2422367fbea60cb9ea4add968f383268e"
+    },
+    {
+      "path": "Assets/Oathfall/ThirdParty/Quaternius/Nature/SOURCE.txt",
+      "sha256": "384a32c3a78e5e5c96073c857ae46fe0c4078de1bcf254b01f004611eadd6358"
+    },
+    {
+      "path": "Assets/Oathfall/ThirdParty/Quaternius/Village/License.txt",
+      "sha256": "ec6fd5004514cb0515a7dc1065f474644d31698861597b32e1745945ffec71de"
+    },
+    {
+      "path": "Assets/Scenes/Hollowwood.unity",
+      "sha256": "ea0d48a121392090f103514c306272f00ac4f22ffa845c07f213deb7ed1082cb"
+    },
+    {
+      "path": "Assets/Scenes/SampleScene.unity",
+      "sha256": "52ce1300e01123ae4a7d17cd6a21171cd6baa8fd8b3299f116cf83d47a615b51"
+    },
+    {
+      "path": "Assets/Tests/EditMode/AttackTimelineTests.cs",
+      "sha256": "a2f85856a9244129f43d418521759884fe3a682d3ac72478319b689b15d6877b"
+    },
+    {
+      "path": "Assets/Tests/EditMode/EquipmentRegressionTests.cs",
+      "sha256": "38478a95dd90dbeb82fd4e4eafd746317ed6ae5bc04894b86ad340b08195383b"
+    },
+    {
+      "path": "Assets/Tests/EditMode/ExpeditionContentTests.cs",
+      "sha256": "436afead9188327318c4e45000e4f36484c8c55f15d698f1e71564a87e04f5f1"
+    },
+    {
+      "path": "Assets/Tests/EditMode/ItemGeneratorTests.cs",
+      "sha256": "5a0ff0da0824730d7c385f69fd24b75b8dbd8148c418e2c894a8eeeb1b67e459"
+    },
+    {
+      "path": "Assets/Tests/EditMode/LightingPersistenceTests.cs",
+      "sha256": "0eb2ec11791d9a31f09ba7cdf2c28a53177a15dab71408f25ddb8a5f5e7ad752"
+    },
+    {
+      "path": "Assets/Tests/EditMode/Oathfall.Tests.EditMode.asmdef",
+      "sha256": "cf479f4a2d854bb1fd00c2e598359a2efb72fd9183f09cac81e34f59d36385ba"
+    },
+    {
+      "path": "Assets/Tests/EditMode/PresentationBuildGateTests.cs",
+      "sha256": "badd1f69b4596e74f088840c03462b51b0ab2d578d2e95eab46fbf9f3673a6ba"
+    },
+    {
+      "path": "Assets/Tests/EditMode/RuntimeHudTests.cs",
+      "sha256": "a6edd3701875473e3264d371941855157c655f52da7d31d6393c4f02dfa2ef34"
+    },
+    {
+      "path": "Assets/Tests/PlayMode/ExpeditionTests.cs",
+      "sha256": "2e80b25ce32abe42c33a250d15fdb207335045314f3463b984ccd268602353df"
+    },
+    {
+      "path": "Assets/Tests/PlayMode/Oathfall.Tests.PlayMode.asmdef",
+      "sha256": "d001d74072981315e7b7f92a4e177ad0c3924e1d671a7b095b6c0bcbfe328d78"
+    },
+    {
+      "path": "Packages/manifest.json",
+      "sha256": "27132f1e1b3ec9d08baaee93beff55690cae6979fcef7914f8a665a3013098aa"
+    },
+    {
+      "path": "Packages/packages-lock.json",
+      "sha256": "18ff6ec56fafa82cfff2819bd9e3e15bd792f40f3b6da43365821535b5add96c"
+    },
+    {
+      "path": "ProjectSettings/AudioManager.asset",
+      "sha256": "aeedeb3243f07b61dbbe854aa08b5ef6f0b5274dd9852ad9f6129dde3e105a31"
+    },
+    {
+      "path": "ProjectSettings/ClusterInputManager.asset",
+      "sha256": "40e65dd214bf254955d2c8829ca8ce2130fd3510485560ce012e9a1ddd93e623"
+    },
+    {
+      "path": "ProjectSettings/DynamicsManager.asset",
+      "sha256": "b7c9a9dc08b98990109d4346f68745e15e238de400f96c583e53e1c83c743a78"
+    },
+    {
+      "path": "ProjectSettings/EditorBuildSettings.asset",
+      "sha256": "a9ec362ea05b37ed3343cdf2af176979eea999a95ddc60f4294e368eecf59f2f"
+    },
+    {
+      "path": "ProjectSettings/EditorSettings.asset",
+      "sha256": "32d6a9be4c9aa9795a96bd951820a2d9be1bfefab82ed05a5db111af0863938f"
+    },
+    {
+      "path": "ProjectSettings/GraphicsSettings.asset",
+      "sha256": "6736f33dc62c35b0e7a88e275242080bc7a1d94c91154d18fceb332b661a6bce"
+    },
+    {
+      "path": "ProjectSettings/InputManager.asset",
+      "sha256": "7a1bb836a1008d26d0860d143e9d9df7ca41731d30a72901b518063819c62df2"
+    },
+    {
+      "path": "ProjectSettings/MemorySettings.asset",
+      "sha256": "1e8379a461b10ae09f3f696911088c16875d63e87ed5f2d95df9e1892703f9fd"
+    },
+    {
+      "path": "ProjectSettings/MultiplayerManager.asset",
+      "sha256": "aba89fd1a1ddad182727ad82727e536d27372e90328a8196da2a4560398983dd"
+    },
+    {
+      "path": "ProjectSettings/NavMeshAreas.asset",
+      "sha256": "1a3523ec15d2eb6de3035cfe5da8ec623ca9858d9fdccee1c6b4caa97ad9073b"
+    },
+    {
+      "path": "ProjectSettings/PackageManagerSettings.asset",
+      "sha256": "a7dabba589abe7fc2b45bd3d3fba3fe9be97043492703f716da2d9131c13a807"
+    },
+    {
+      "path": "ProjectSettings/Packages/com.unity.pipeline/EditorPipelineConfig.json",
+      "sha256": "f524bfad207a630e80b0f73e773d5e044e93e7500ddf155156b756b9a1218c8b"
+    },
+    {
+      "path": "ProjectSettings/Physics2DSettings.asset",
+      "sha256": "e3cbdbf0be15244b7b67d2f07bdb8e8981911c11a8c7fe8035f5261272fec658"
+    },
+    {
+      "path": "ProjectSettings/PresetManager.asset",
+      "sha256": "29c125923fe6e29f90190d4fce1c82d660e7051546e2c9d02908d18c9cf2436c"
+    },
+    {
+      "path": "ProjectSettings/ProjectSettings.asset",
+      "sha256": "639f2b80aa73d9b917e809ba43781d4f8d0327813a013894956a6ceaeac4f416"
+    },
+    {
+      "path": "ProjectSettings/ProjectVersion.txt",
+      "sha256": "7c1a2e48fa28ef903c975ca421ab4c9c1aac3c8d11d0cc385694911006b9ce7a"
+    },
+    {
+      "path": "ProjectSettings/QualitySettings.asset",
+      "sha256": "6814d6cc3eb850dd7d2a069a8b17ba9f7591deba8b1758a855978bd9c8627643"
+    },
+    {
+      "path": "ProjectSettings/SceneTemplateSettings.json",
+      "sha256": "bb9098b3bfcde78d93e264b96f7b77b5430e64e8c57a7aad7f5a5d9c3945e16a"
+    },
+    {
+      "path": "ProjectSettings/ShaderGraphSettings.asset",
+      "sha256": "cdba1e5d65bcf6e3269d76ed3e60b6c21f98322002996642c9d74f1eb89f6b91"
+    },
+    {
+      "path": "ProjectSettings/TagManager.asset",
+      "sha256": "23fc56b484aa3d7edf5914cd3591f7a823ccef5e3f3496f8a51f30388ead63dc"
+    },
+    {
+      "path": "ProjectSettings/TimeManager.asset",
+      "sha256": "1a83e54adbbda7c9f4851103a0c6ab7f6448a3343d4ea5b7620452fa08416ecd"
+    },
+    {
+      "path": "ProjectSettings/UnityConnectSettings.asset",
+      "sha256": "b7dd1e8290598f5ce86919ba1c98b42b766c8c42191a30fa2c4d12195c4ecd00"
+    },
+    {
+      "path": "ProjectSettings/URPProjectSettings.asset",
+      "sha256": "c317fe22b9488785c0611f0642429922e5d324430d929bffb41648130f30c218"
+    },
+    {
+      "path": "ProjectSettings/VersionControlSettings.asset",
+      "sha256": "e7bda45bf7a394745fee1316e6c71fa676004d591ad1f3aa247fd3e4ceb86071"
+    },
+    {
+      "path": "ProjectSettings/VFXManager.asset",
+      "sha256": "f066c6483919961332415ee64204f74fe52f38c02e82892eb02b7a5b2e381f0e"
+    },
+    {
+      "path": "ProjectSettings/XRSettings.asset",
+      "sha256": "edd2beb4a2e388312b4b7da241aa51070434005d82c59363f1237dd2e567585f"
+    },
+    {
+      "path": "SourceArt/AudioOriginals/LICENSE.txt",
+      "sha256": "2ff1ae83e143b581694da9eb6e7c259a30c0fdcaa57b914227fa77051f2defeb"
+    },
+    {
+      "path": "SourceArt/author_armor.py",
+      "sha256": "4ac4bc3145fa7ad7ff87c84729fa47cb9075122b5bcc5f6dd340fce482f1d5eb"
+    },
+    {
+      "path": "SourceArt/author_audio.py",
+      "sha256": "6fbe7d5ee5c114d8799b277a161010496894a15b9701bd6d32090507fd94cd8f"
+    },
+    {
+      "path": "SourceArt/author_environment.py",
+      "sha256": "543113363378f756c2059d6e85e03c994dd69c5235c1596ed1b90f2ccd507586"
+    },
+    {
+      "path": "SourceArt/author_forest_detail.py",
+      "sha256": "d747f7f224aabb6faf9274be0611aac9a1c831c374f6ce103b3d6af968515121"
+    },
+    {
+      "path": "SourceArt/author_lods.py",
+      "sha256": "98a3e7db140cc3fba2ca856e735d52339ea1cbde505553c2c980e2b676fe87ec"
+    },
+    {
+      "path": "SourceArt/author_revision5.py",
+      "sha256": "cabbdd5a790c0306a4ba13759b509b07d7b6ecef81c923b0e20c94aceb0befa2"
+    },
+    {
+      "path": "SourceArt/author_soundscape.py",
+      "sha256": "ef5a90f9a277c17349e64425b7e04edc9582b5d4e32c7af6b3d76072e7bc7215"
+    },
+    {
+      "path": "SourceArt/author_woodland.py",
+      "sha256": "d2a1e838787f21223d7ea1ecb66e5e6f4aea6481d3d548edee48650256486416"
+    }
+  ],
+  "builds": [
+    {
+      "buildId": "build_7e45cf03ba68",
+      "status": "completed",
+      "result": "Succeeded",
+      "outputPath": "D:/Projects/Unity/Oathfall/Builds/Oathfall-Revision5-Development/Oathfall.exe",
+      "totalErrors": 0,
+      "totalWarnings": 0,
+      "startTime": null,
+      "endTime": null
+    },
+    {
+      "buildId": "build_4d1b18de3c45",
+      "status": "completed",
+      "result": "Succeeded",
+      "outputPath": "D:/Projects/Unity/Oathfall/Builds/Oathfall-Hollowwood/Oathfall.exe",
+      "totalErrors": 0,
+      "totalWarnings": 0,
+      "startTime": null,
+      "endTime": null
+    }
+  ],
+  "tests": {
+    "editMode": 20,
+    "playMode": 29,
+    "failed": 0,
+    "skipped": 0
+  },
+  "limitations": [
+    "Not AA acceptance",
+    "No physical-controller or minimum-spec pass",
+    "Capture and audit allocation invalidate performance certification",
+    "3D preview displays selected item, not worn character",
+    "Development-only audit draught pulse changed after full product gate; ordinary release excludes audit code"
+  ],
+  "outputs": {
+    "development": "Builds/Oathfall-Revision5-Development/Oathfall.exe",
+    "ordinary": "Builds/Oathfall-Hollowwood/Oathfall.exe"
+  },
+  "executableHashes": {
+    "development": "242cac5affae0cf9a30db6a45bd1e91d3ffa33b8d08b99cb7b7e2ccffe4738d0",
+    "ordinary": "d91dbfa5c7d67cdf2c521d83112df029079f358519a1282d531baad4e1cd80c9"
+  }
+}

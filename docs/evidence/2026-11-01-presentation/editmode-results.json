@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "command": "command",
+  "data": {
+    "command": "test run",
+    "parameters": {
+      "mode": "editor",
+      "filter": "Oathfall.Tests.EditMode",
+      "filter_type": "assembly"
+    },
+    "result": {
+      "Summary": {
+        "Total": 14,
+        "Passed": 14,
+        "Failed": 0,
+        "Skipped": 0,
+        "Inconclusive": 0
+      },
+      "Results": [
+        {
+          "FullName": "Oathfall.Tests.EditMode.AttackTimelineTests.EncounterRules_StaggersFirstEnemyAttacksAndMakesDodgesInvulnerable",
+          "Status": "Passed",
+          "Duration": 0.0153133,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.AttackTimelineTests.GetPhase_RejectsTimeOutsideTheAttack",
+          "Status": "Passed",
+          "Duration": 0.0009025,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.AttackTimelineTests.GetPhase_SeparatesWindupActiveAndRecoveryWindows",
+          "Status": "Passed",
+          "Duration": 0.0001938,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.InventoryTests.EquippedOrDroppedIdentityCannotBeCollectedAgain",
+          "Status": "Passed",
+          "Duration": 0.0008247,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.InventoryTests.EquipUnequipDoesNotAccumulateStats",
+          "Status": "Passed",
+          "Duration": 0.0012472,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.InventoryTests.FullInventoryRetainsOwnershipAndSwapStillWorks",
+          "Status": "Passed",
+          "Duration": 0.0045393,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.InventoryTests.GeneratorOnlyOffersImplementedEffects",
+          "Status": "Passed",
+          "Duration": 0.0094817,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.InventoryTests.LargeFrameStillCrossesActiveWindow",
+          "Status": "Passed",
+          "Duration": 0.000242,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.InventoryTests.PickupUsesGroundAnchorAndRejectsOtherFloor",
+          "Status": "Passed",
+          "Duration": 0.0001566,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.ItemGeneratorTests.DamageResolver_ArmorReducesButDoesNotNegateDamage",
+          "Status": "Passed",
+          "Duration": 0.0005415,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.ItemGeneratorTests.Generate_ProducesUniqueAffixesWithinAnItem",
+          "Status": "Passed",
+          "Duration": 0.0019543,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.ItemGeneratorTests.Generate_WithSameSeed_ReturnsSameItemData",
+          "Status": "Passed",
+          "Duration": 0.00028,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.LightingPersistenceTests.LightingSurvivesReimportAndRepeatedAuthoringWithoutDuplicateOverrides",
+          "Status": "Passed",
+          "Duration": 0.1573441,
+          "Message": null,
+          "StackTrace": null
+        },
+        {
+          "FullName": "Oathfall.Tests.EditMode.RuntimeHudTests.HeroSelectionHidesRunHudUntilANewRunStarts",
+          "Status": "Passed",
+          "Duration": 0.1143712,
+          "Message": null,
+          "StackTrace": null
+        }
+      ],
+      "Duration": 4.18,
+      "StatusPath": null,
+      "Mode": "EditMode",
+      "FilterApplied": "assembly: Oathfall.Tests.EditMode",
+      "success": true,
+      "result": null
+    },
+    "target": {
+      "host": "127.0.0.1",
+      "port": 7800,
+      "projectPath": "D:\\Projects\\Unity\\Oathfall"
+    }
+  },
+  "errors": [],
+  "warnings": []
+}

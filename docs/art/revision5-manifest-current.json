@@ -1,0 +1,375 @@
+{
+  "contentRevision": 5,
+  "date": "2026-11-01",
+  "engine": "6000.3.27f2",
+  "blender": "5.2.3 LTS",
+  "sources": "Owned derivatives; humanoid/animation foundation Quaternius CC0; recorded audio licenses in audio-acquisition-revision5.json",
+  "artAcceptance": "Implemented and under local review; not production/AA approved",
+  "files": [
+    {
+      "path": "SourceArt/author_revision5.py",
+      "sha256": "cabbdd5a790c0306a4ba13759b509b07d7b6ecef81c923b0e20c94aceb0befa2",
+      "bytes": 10104
+    },
+    {
+      "path": "SourceArt/author_forest_detail.py",
+      "sha256": "d747f7f224aabb6faf9274be0611aac9a1c831c374f6ce103b3d6af968515121",
+      "bytes": 4757
+    },
+    {
+      "path": "SourceArt/author_soundscape.py",
+      "sha256": "ef5a90f9a277c17349e64425b7e04edc9582b5d4e32c7af6b3d76072e7bc7215",
+      "bytes": 1549
+    },
+    {
+      "path": "SourceArt/EnemyBreaker.blend",
+      "sha256": "f5295558c1f18277ca9bf97aa5dcf9fe2fd82bb47007b962be8c4caf62eee863",
+      "bytes": 616717
+    },
+    {
+      "path": "SourceArt/EnemyGuardian.blend",
+      "sha256": "0d20baf9a434afe6971c47e0af19e759ada7296907952cbd3475741a66962b6b",
+      "bytes": 643309
+    },
+    {
+      "path": "SourceArt/EnemyHexblade.blend",
+      "sha256": "e96c6102635f4469b842e0bd804b906a731eca36e42696dfbe8f2d188413983d",
+      "bytes": 589553
+    },
+    {
+      "path": "SourceArt/EnemyRaider.blend",
+      "sha256": "ab9d13c655151f840b17c189bf35907ddc126e0d0440e6e3fcef533b9288699d",
+      "bytes": 607827
+    },
+    {
+      "path": "SourceArt/GearBody.blend",
+      "sha256": "d7a665f044d64f20a241e033f8b92c76e022da7c51b71dc5ecc774abd673c863",
+      "bytes": 108565
+    },
+    {
+      "path": "SourceArt/GearBoots.blend",
+      "sha256": "af8cf203c53b38c778996361392f41d78f06694afc4b8cdb2eadda249eaa167e",
+      "bytes": 106515
+    },
+    {
+      "path": "SourceArt/GearCharm.blend",
+      "sha256": "77d3ec5bd2a39a6dd5db4c5d70f791f48d9535fa66e0c1df866c08fc548c7292",
+      "bytes": 100499
+    },
+    {
+      "path": "SourceArt/GearHead.blend",
+      "sha256": "296cd83079136c5984e2f14874e41d595a35bfcf3de65d2a1d3dddb9a0898036",
+      "bytes": 103818
+    },
+    {
+      "path": "SourceArt/GearOffhand.blend",
+      "sha256": "2e96a54fd1540cf653509fd9736c2af70951ba3398ca6763c9a48374b6a4667a",
+      "bytes": 101616
+    },
+    {
+      "path": "SourceArt/GearWeapon.blend",
+      "sha256": "daddb1bb64e96a86cb94829c51502211f8a7bf06731ea0020dce992fc90b6d10",
+      "bytes": 106578
+    },
+    {
+      "path": "SourceArt/SilverOak0.blend",
+      "sha256": "cd40593f052f16481860ab3ab439df3e863555fa2ef37141774b42cc213f4837",
+      "bytes": 433095
+    },
+    {
+      "path": "SourceArt/SilverOak1.blend",
+      "sha256": "53cbfcdf0c146d8aa3395117b15cda6967bdbe3e76365a56a07aa9f917dcd60d",
+      "bytes": 431775
+    },
+    {
+      "path": "SourceArt/SilverOak2.blend",
+      "sha256": "e197a95edf2f6771d291e7e16a0739a7934ac41a843b038c0c223e9fd7c617cc",
+      "bytes": 433001
+    },
+    {
+      "path": "SourceArt/HazelShrub.blend",
+      "sha256": "d9052382db7817ad62c71909ab2cc3d50163d0376ec01a8d29356d089da6613e",
+      "bytes": 115541
+    },
+    {
+      "path": "SourceArt/WaysideFlowers.blend",
+      "sha256": "22fd308ea6f683066c17a17b0e824ec13ac9bc657463c636179130a8a3eba119",
+      "bytes": 207000
+    },
+    {
+      "path": "SourceArt/WoodlandGrass.blend",
+      "sha256": "53844bb04e99ee52a7ed5157c401dbcae38beb539bdbf3044b529b1cbb9631d2",
+      "bytes": 102054
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/EnemyBreaker.fbx",
+      "sha256": "a0c438bc7aea1d94274c5d1cfc73340c532eceb31a0d4de20f32062adfc9d4e3",
+      "bytes": 2632924
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/EnemyBreaker_LOD1.fbx",
+      "sha256": "f2cbf310d6b25f941e62b99077a06b31832378eb875392a6d623e83143a2a244",
+      "bytes": 2397468
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/EnemyBreaker_LOD2.fbx",
+      "sha256": "0ba24d4d9653645f05e71f9d757d25a7b36f059db4645ffa03662b0c9f486cd3",
+      "bytes": 2205996
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/EnemyGuardian.fbx",
+      "sha256": "21a02a202c34a559ded2077ecab89ab4e9cf3339861869c50af85bb909a0c5d6",
+      "bytes": 3099404
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/EnemyGuardian_LOD1.fbx",
+      "sha256": "9d5e4d2b810e76fd96132dddbc672353ba2f6da1f2e7bc95d88e31824ff9a655",
+      "bytes": 2860092
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/EnemyGuardian_LOD2.fbx",
+      "sha256": "dc54f62c04a1c9a08e10642543a342161b5a61afd63ff9a174aed1ca8b633c26",
+      "bytes": 2665868
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/EnemyHexblade.fbx",
+      "sha256": "410a8ea5b464bc1872509c9ebd0f71850cc7016297da4fe60f60434ec5aa9d40",
+      "bytes": 1556940
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/EnemyHexblade_LOD1.fbx",
+      "sha256": "9759a18b0abd938fb7ef7f570330363e6e50331c0457b56c6225a86e77baac29",
+      "bytes": 1329276
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/EnemyHexblade_LOD2.fbx",
+      "sha256": "fa979c9c308aeaec34abc5f9a95250e116d0deaa125b5fa19b6f7b6d613b36a3",
+      "bytes": 1152684
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/EnemyRaider.fbx",
+      "sha256": "52f6f657386a752aeb3bdfb8dd028398f749d43860ed231ae0eef066c75c3132",
+      "bytes": 2229036
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/EnemyRaider_LOD1.fbx",
+      "sha256": "f3006f1e20de91ee968fd2c836776db17f6c7967edb2866969a9dfb99b90efc3",
+      "bytes": 1994684
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/EnemyRaider_LOD2.fbx",
+      "sha256": "70b0cbfa99e5026a6be36ca8bc78209546e2aecf23168a3907e6444c5c53f434",
+      "bytes": 1810044
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/GearBody.fbx",
+      "sha256": "10264d8c0e8c95ee8f4e2e5bc52b952f49fb718cd80b22e9e35978e67bcf0372",
+      "bytes": 56140
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/GearBoots.fbx",
+      "sha256": "c34087fb23aea89b7556ef6ed1e95f1f210828aa68ebdc7357a56c753dfb224c",
+      "bytes": 57980
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/GearCharm.fbx",
+      "sha256": "afd599333d5b3900c88a1e68a2eabb0a80698074e78c783322b88ba135781707",
+      "bytes": 54396
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/GearHead.fbx",
+      "sha256": "a43f59667f69a16b8c4d681ef4edc9c8729d780b5a2b9b06fd0eefb6a111a347",
+      "bytes": 40028
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/GearOffhand.fbx",
+      "sha256": "674891049682e960fc30b17529a2eba1b184c6990f7e649f789a7a4e5097063f",
+      "bytes": 43116
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/GearWeapon.fbx",
+      "sha256": "a9498fca2b35fc4d5d0d4b0cfbe66db1c3bb10a30f9e41007d4a74015d68c7e6",
+      "bytes": 61740
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/SilverOak0.fbx",
+      "sha256": "bb2a45571cce7e53c1c6368bd5367e62969a789ffa7ef825daf1532da735ae67",
+      "bytes": 485500
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/SilverOak0_LOD1.fbx",
+      "sha256": "48a91b16eb0c061243f4179b6205370002747b272d4fc11f0ebbb5d103d91a8c",
+      "bytes": 347772
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/SilverOak0_LOD2.fbx",
+      "sha256": "33c87f97deb35efdf153a44a8bbb4af78bd4154eb6cc4c09423c4fd3c865b691",
+      "bytes": 205404
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/SilverOak1.fbx",
+      "sha256": "4e7da89d1b5a5939da9be0aaeb1010e20e5d888fbc1cda294d6eabda8093bc06",
+      "bytes": 484892
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/SilverOak1_LOD1.fbx",
+      "sha256": "e5025bf0b2ea773118f722cf0768f4099832d3c83fd6c214c2c9611a85616907",
+      "bytes": 347676
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/SilverOak1_LOD2.fbx",
+      "sha256": "9f8d95b6f33978aa0244d875f542d3994a9f9b317ade056f6bd9beddad5f58aa",
+      "bytes": 205084
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/SilverOak2.fbx",
+      "sha256": "440e31a64d4478082f7708a19006f35108b766bfdc4193d8bae16fed4d62a187",
+      "bytes": 485868
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/SilverOak2_LOD1.fbx",
+      "sha256": "1796b3ae7cfa641f16061ad7304ee302227d92fe71f8a8818c8377a848990582",
+      "bytes": 347964
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/SilverOak2_LOD2.fbx",
+      "sha256": "ec2b4644903bb15d38895093d768024193c56ec2c21cca3ed0ae0789c2645c83",
+      "bytes": 205068
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/WoodlandGrass.fbx",
+      "sha256": "6145b0df50b2bfba8c4e63ba73f614bf0977423e9856f4a1a67216952e58eb40",
+      "bytes": 33516
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/HazelShrub.fbx",
+      "sha256": "d685a61fb2558aec3f1c3df730d0a11f2df962073f78193fb5f681bde6a8a256",
+      "bytes": 48860
+    },
+    {
+      "path": "Assets/Oathfall/Art/Models/WaysideFlowers.fbx",
+      "sha256": "dc271e91e667f14252101de7ae103ad9e3a654ce3e4b51663941180d49ccd644",
+      "bytes": 158524
+    },
+    {
+      "path": "Assets/Oathfall/Art/Dawnwarden_Combo1.anim",
+      "sha256": "ca728b3d2241896a741a309ffcefe003ce65f496645531a74816cdf993528ccc",
+      "bytes": 2893160
+    },
+    {
+      "path": "Assets/Oathfall/Art/Dawnwarden_Combo2.anim",
+      "sha256": "aef519c86bf2d8a2ad8c6a679c16285ee9606d2450f3b942a162c6fbc263ba7f",
+      "bytes": 2895898
+    },
+    {
+      "path": "Assets/Oathfall/Art/Dawnwarden_Combo3.anim",
+      "sha256": "0055cf8a2d6ede07990570e7ab92340c461893df68c6e7137d54465830b2ac81",
+      "bytes": 2850538
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallAudio/Forest.wav",
+      "sha256": "2db180664fa7ed51701aed21746012d69c5b0cb8761ac7bbfcfa8900b5f0d82a",
+      "bytes": 7056114
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallAudio/OathTheme.wav",
+      "sha256": "46387b51fe85798faa00d25251007344490ea95bf46f72f8c4efab4b630a97f3",
+      "bytes": 2116844
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallAudio/Rune.wav",
+      "sha256": "4ae3674f8f6088f276d34ec1b210ba4f13641930458f07f8095315c5b9654b92",
+      "bytes": 44144
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallAudio/Victory.wav",
+      "sha256": "38548c7ecf3e510a5a5ec779d386caa99d16f47e92b55e895a895cc43dd92371",
+      "bytes": 149984
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallAudio/Ward.wav",
+      "sha256": "74aac878db6ca8af06f1c2f201fc7113aa971ee054b3239ce6763379820bdd79",
+      "bytes": 79424
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallAudio/Block.ogg",
+      "sha256": "8e1f820d217d380fde10e969d109db34303e3f4d11c3951926eddef813d04ae2",
+      "bytes": 22471
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallAudio/Click.ogg",
+      "sha256": "9851a69d0c613e13bceef08060ecc4148f098ef487927cbebe270d642398a3b3",
+      "bytes": 13615
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallAudio/Close.ogg",
+      "sha256": "81e976532565f4372abd14e83d2684195fa548d0a28d345de221e56052454f32",
+      "bytes": 9292
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallAudio/Equip.ogg",
+      "sha256": "f29560a2aea95bbfeb643e1e8f56ec2b6f7e32f32ce4e140645a36db81de3253",
+      "bytes": 21491
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallAudio/Impact.ogg",
+      "sha256": "159def979e8e386c2c539f5e99cc30a080eb2dcb6c911fa2e4ccc0785b2522fd",
+      "bytes": 31619
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallAudio/Loot.ogg",
+      "sha256": "8a91f969e932df709df80ee124d86a51389eed9b67f22e5e716bc2bbf60d8dab",
+      "bytes": 25394
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallAudio/Open.ogg",
+      "sha256": "953390534377222bee89ac8cd9e60a58fdc037c71a4d7c18c43cd647c7f34ba8",
+      "bytes": 8273
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallAudio/Step.ogg",
+      "sha256": "6fe61ef1fc3bcf0e253bf2eb64759db6cb69e2fe452f4d88cc597ecf78a3d601",
+      "bytes": 9475
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallAudio/Step2.ogg",
+      "sha256": "313472dba31fd0c855376069fa368bb5a198c27251cc8398ef464578b7047a4c",
+      "bytes": 9900
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallAudio/Swing.ogg",
+      "sha256": "4cd96dc630bed9840c15f1dd2306da2cc56a4da26a5d3f1a03c5a7265ac5e54f",
+      "bytes": 15532
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallIcons/Body.png",
+      "sha256": "59c6c2bb9652f781c7f3b9493fd487673169daffde663a5a6f29eff6033a6799",
+      "bytes": 34042
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallIcons/Boots.png",
+      "sha256": "1512281d89ade2d98c3d5ef5c491c4ce5c6f04d1d63ed96d971d9a128780b2b1",
+      "bytes": 39621
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallIcons/Charm.png",
+      "sha256": "6d555b4dc18c1ed2c52a7eeb00d1f2d1634c429948ee14be84c0bdea4617ae71",
+      "bytes": 15079
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallIcons/Head.png",
+      "sha256": "1228f7cdf62a499d7e3433737a39417776581c41eac3abe89e242f8f2f2eb712",
+      "bytes": 33685
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallIcons/Offhand.png",
+      "sha256": "b3e89abd8f3267360aab0d6acdb920c5298dbbf793109a2ceaa39e1475a1dd13",
+      "bytes": 26514
+    },
+    {
+      "path": "Assets/Oathfall/Art/Resources/OathfallIcons/Weapon.png",
+      "sha256": "e373ffbda1e715fb81fc0fa0a3a547c64f2208f5cbfc49d71570f8f52737e065",
+      "bytes": 8055
+    }
+  ]
+}

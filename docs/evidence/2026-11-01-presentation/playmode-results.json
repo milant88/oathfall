@@ -1,0 +1,132 @@
+{
+  "status": "completed",
+  "duration": 11.73,
+  "summary": {
+    "total": 17,
+    "passed": 17,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.CameraCutawayPreservesCollisionAndRestoresVisibility",
+      "Status": "Passed",
+      "Duration": 1.153479,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.CameraRevealsPlayerBodyBehindAuthoredEntranceArch",
+      "Status": "Passed",
+      "Duration": 0.7478491,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.CleaveAnimationUsesOneSwingAtGameplayDuration",
+      "Status": "Passed",
+      "Duration": 0.8966462,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.DodgeRecoveryRemainsVulnerableAfterProtectionEnds",
+      "Status": "Passed",
+      "Duration": 0.9940475,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.EachEncounterCanBeReachedAndCompletedWithoutDuplicateRewards",
+      "Status": "Passed",
+      "Duration": 0.8529026,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.FocusLossPausesCombatUntilExplicitResume",
+      "Status": "Passed",
+      "Duration": 0.463697,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.FullInventoryDoesNotDestroyDrop",
+      "Status": "Passed",
+      "Duration": 0.6790085,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.GroundedPickupAddsOnceAndEquipmentChangesDamage",
+      "Status": "Passed",
+      "Duration": 0.6216229,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.ImmuneAndDeadTargetsDoNotEmitFalseImpactFeedback",
+      "Status": "Passed",
+      "Duration": 0.4546374,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.LootUnderArchStaysOnGroundRatherThanRoof",
+      "Status": "Passed",
+      "Duration": 0.5562058,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.RestartDisablesPreviousRunBeforeNextFrame",
+      "Status": "Passed",
+      "Duration": 0.4597798,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.ShrineRewardIsReachableAndCollectible",
+      "Status": "Passed",
+      "Duration": 0.5733469,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.SlowFrameHitsOnceAndStaggerCancelsRemainingWindow",
+      "Status": "Passed",
+      "Duration": 0.4794351,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.StationaryDodgeUsesFacingAndPreventsDamageImmediately",
+      "Status": "Passed",
+      "Duration": 0.6268371,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.TenRestartsLeaveOneActorSetAndControllerInventoryFocusWorks",
+      "Status": "Passed",
+      "Duration": 0.6580658,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.VisualCanopyWithoutColliderRevealsAndRestores",
+      "Status": "Passed",
+      "Duration": 0.7411415,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "Oathfall.Tests.PlayMode.ExpeditionTests.WallPreventsPickup",
+      "Status": "Passed",
+      "Duration": 0.679492,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

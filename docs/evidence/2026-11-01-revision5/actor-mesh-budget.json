@@ -1,0 +1,69 @@
+{
+  "success": true,
+  "command": "command",
+  "data": {
+    "command": "script eval",
+    "parameters": {
+      "code": "return new[]{\"Dawnwarden\",\"HollowwoodRaider\",\"hexblade\",\"breaker\",\"guardian\"}.Select(n=>{var p=UnityEditor.AssetDatabase.LoadAssetAtPath<UnityEngine.GameObject>(Oathfall.Editor.ExpeditionAssets.Root+\"/\"+n+\".prefab\");return new {name=n,triangles=p.GetComponent<UnityEngine.LODGroup>().GetLODs().Select(l=>l.renderers.Sum(r=>r is UnityEngine.SkinnedMeshRenderer s?s.sharedMesh.triangles.Length/3:0)).ToArray(),renderers=p.GetComponent<UnityEngine.LODGroup>().GetLODs()[0].renderers.Length};}).ToArray();"
+    },
+    "result": {
+      "output": null,
+      "diagnostics": [],
+      "success": true,
+      "result": [
+        {
+          "name": "Dawnwarden",
+          "triangles": [
+            16735,
+            8365,
+            4166
+          ],
+          "renderers": 23
+        },
+        {
+          "name": "HollowwoodRaider",
+          "triangles": [
+            17130,
+            9342,
+            4663
+          ],
+          "renderers": 23
+        },
+        {
+          "name": "hexblade",
+          "triangles": [
+            15966,
+            8746,
+            4381
+          ],
+          "renderers": 13
+        },
+        {
+          "name": "breaker",
+          "triangles": [
+            17874,
+            9796,
+            4885
+          ],
+          "renderers": 29
+        },
+        {
+          "name": "guardian",
+          "triangles": [
+            18344,
+            10060,
+            5013
+          ],
+          "renderers": 36
+        }
+      ]
+    },
+    "target": {
+      "host": "127.0.0.1",
+      "port": 7800,
+      "projectPath": "D:\\Projects\\Unity\\Oathfall"
+    }
+  },
+  "errors": [],
+  "warnings": []
+}
