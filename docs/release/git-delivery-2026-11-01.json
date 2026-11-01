@@ -1,0 +1,9 @@
+{
+  "remote": "https://github.com/milant88/oathfall.git",
+  "verifiedUtc": "2026-11-01T14:21:50.645113+00:00",
+  "publishedProjectHead": "f1814815c30a8184e9b461d7b2f43734b6abac3f",
+  "publishedProvenanceHead": "76dc37cbac38889494cec1a5232098707f6e72bf",
+  "lfsUpload": "455 objects, approximately 2.4 GB; successful",
+  "transport": "atomic push, no force",
+  "receiptNote": "This record describes the verified project/evidence push. The subsequent receipt commit is published with its own provenance; current tip is the Git branch, not a self-referential hash in this file."
+}

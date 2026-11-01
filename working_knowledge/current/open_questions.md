@@ -2,7 +2,7 @@
 
 ## Blocking
 
-No clarification required. User supplied the remote URL; local closeout is complete and push verification remains.
+No blocking questions. User supplied the remote; project/evidence and provenance notes were pushed and verified.
 
 ## Non-blocking
 

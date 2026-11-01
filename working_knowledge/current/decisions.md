@@ -31,3 +31,5 @@
 | Pulse audit healing input | confirmed | Real gameplay uses press edges. Release between synthetic requests so repeated available draughts work without changing health, cooldowns or difficulty. | RuntimeAuditDriver / post-repair audit |
 
 | Initial source and evidence commits on main | confirmed by user | No previous HEAD exists; commit current verified production foundation, then final evidence/working knowledge. Push to user-supplied empty origin with provenance notes; no force or fabricated prior history. | Closeout request / plan 1.1–1.3 |
+
+| Publish branch and provenance together | verified | Atomic push delivered main and refs/notes/provenance; remote hashes matched. LFS fsck passed and all required objects uploaded. | Git delivery receipt |
